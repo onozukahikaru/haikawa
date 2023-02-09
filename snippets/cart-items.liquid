@@ -50,9 +50,9 @@
                 {%- endif -%}
 
                 <li class="CartItem__Property">
-                  {%- if property.first contains 'START' -%}
+                  {%- if property contains 'START' -%}
                     <span>ご利用開始日</span>
-                  {%- elsif property.first contains 'FINISH' -%}
+                  {%- elsif property contains 'FINISH' -%}
                     <span>ご利用終了日</span>
                   {%- else -%}
                     {{ property.first }}
