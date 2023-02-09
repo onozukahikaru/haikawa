@@ -202,6 +202,19 @@
         "title": "HTML埋め込みGoogle Map",
         "html": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3272.3320695154334!2d136.94618501986193!3d34.89811525197957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6004850436561993%3A0x50e2ff1858cbdada!2z44CSNDc1LTA4MDcg5oSb55-l55yM5Y2K55Sw5biC5YWr6LuS55S677yY77yY4oiS77yR!5e0!3m2!1sja!2sjp!4v1675223931116!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>"
       }
+    },
+    "2df6b2c8-6ad6-47bb-9f08-958e6dda9dfc": {
+      "type": "map_customize",
+      "custom_css": [
+        "iframe {width: 100%; aspect-ratio: 78\/55;}"
+      ],
+      "settings": {
+        "title": "株式会社 配川工業",
+        "address": "<p>〒475-0807 愛知県半田市八軒町８８−１<\/p>",
+        "hours": "<p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
+        "map_link_label": "マップを見る",
+        "link_url": "https:\/\/www.google.com\/maps\/place\/%E3%80%92475-0807+%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%8D%8A%E7%94%B0%E5%B8%82%E5%85%AB%E8%BB%92%E7%94%BA%EF%BC%98%EF%BC%98%E2%88%92%EF%BC%91\/@34.897612,136.947591,16z\/data=!4m5!3m4!1s0x6004850436561993:0x50e2ff1858cbdada!8m2!3d34.8976115!4d136.9475905?hl=ja"
+      }
     }
   },
   "order": [
@@ -214,6 +227,7 @@
     "dbc532e4-a286-43fc-b869-e448b3597465",
     "4508aa62-d59f-4ab8-b11a-b997969d9554",
     "1675153110ed841f58",
-    "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35"
+    "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35",
+    "2df6b2c8-6ad6-47bb-9f08-958e6dda9dfc"
   ]
 }
