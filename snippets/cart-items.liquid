@@ -49,16 +49,7 @@
                   {%- continue -%}
                 {%- endif -%}
 
-                <li class="CartItem__Property">
-                  {%- if property.first == first_character_in_key == 'START' -%}
-                    <span>ご利用開始日</span>
-                  {%- elsif property.first == first_character_in_key == 'FINISH' -%}
-                    <span>ご利用終了日</span>
-                  {%- else -%}
-                    {{ property.first }}
-                  {%- endif -%}
-                  : {{ property.last }}
-                </li>
+                <li class="CartItem__Property">{{ property.first }}: {{ property.last }}</li>
               {%- endfor -%}
             </ul>
           {%- endif -%}
