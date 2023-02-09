@@ -196,6 +196,7 @@
     },
     "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35": {
       "type": "custom-html",
+      "disabled": true,
       "settings": {
         "subheading": "ご確認ください。",
         "title": "HTML埋め込みGoogle Map",
