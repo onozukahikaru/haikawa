@@ -52,8 +52,7 @@
                 <li class="CartItem__Property">{{ property.first }}: {{ property.last }}</li>
               {%- endfor -%}
             </ul>
-          {%- endif -%}
-          {% for p in item.properties %}
+             {% for p in item.properties %}
   {% unless p.last == blank %}
     <p>{{ p.first | replace: 'booking-start', 'Date' | replace: 'booking-time', 'Time' }}:
       {% if p.last contains '/uploads/' %}
@@ -64,6 +63,8 @@
     </p>
   {% endunless %}
 {% endfor %}
+          {%- endif -%}
+         
 
           <div class="CartItem__PriceList">
             {%- if line_item.original_price != line_item.final_price -%}
