@@ -52,16 +52,14 @@
                 <li class="CartItem__Property">{{ property.first }}: {{ property.last }}</li>
               {%- endfor -%}
             </ul>
-             
-    <p>{{ p.first | replace: 'booking-start', 'Date' | replace: 'booking-time', 'Time' }}:
+          {%- endif -%}
+     <p>{{ p.first | replace: 'booking-start', 'Date' | replace: 'booking-time', 'Time' }}:
      
         <a class="lightbox" href="{{ p.last }}">{{ p.last | split: '/' | last }}</a>
      
         {{ p.last }}
      
     </p>
-  
-          {%- endif -%}
          
 
           <div class="CartItem__PriceList">
