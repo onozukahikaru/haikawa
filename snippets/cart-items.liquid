@@ -53,6 +53,17 @@
               {%- endfor -%}
             </ul>
           {%- endif -%}
+          {% for p in item.properties %}
+  {% unless p.last == blank %}
+    <p>{{ p.first | replace: 'booking-start', 'Date' | replace: 'booking-time', 'Time' }}:
+      {% if p.last contains '/uploads/' %}
+        <a class="lightbox" href="{{ p.last }}">{{ p.last | split: '/' | last }}</a>
+      {% else %}
+        {{ p.last }}
+      {% endif %}
+    </p>
+  {% endunless %}
+{% endfor %}
 
           <div class="CartItem__PriceList">
             {%- if line_item.original_price != line_item.final_price -%}
@@ -107,6 +118,7 @@
                   {%- render 'icon' with 'plus' -%}
                 </a>
               </div>
+          <span>日</span>
             </div>
 
             <a href="{{ routes.cart_change_url }}?quantity=0&line={{ forloop.index }}" class="CartItem__Remove Link Link--underline Link--underlineShort" data-quantity="0" data-line="{{ forloop.index }}" data-action="remove-item">{{ 'cart.items.remove' | t }}</a>
