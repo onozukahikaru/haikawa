@@ -1,0 +1,218 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20200414-IMG_2849.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "手軽に乗れるEV(enjoy vehicle)モビリティ",
+            "button_1_text": "さらに詳しく",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6554.png",
+            "apply_overlay": true,
+            "content_position": "bottomRight",
+            "subheading": "",
+            "title": "手軽に乗れるEV(enjoy vehicle)モビリティ",
+            "button_1_text": "さらに詳しく",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "b1fc07e9-34e9-4a79-ab1a-655bc3ccf0be": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20200409-IMG_2609.jpg",
+            "apply_overlay": true,
+            "content_position": "middleLeft",
+            "subheading": "",
+            "title": "手軽に乗れるEV(enjoy vehicle)モビリティ",
+            "button_1_text": "さらに詳しく",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-0",
+        "b1fc07e9-34e9-4a79-ab1a-655bc3ccf0be"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": false,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "f1db953e-bf55-49d0-8c46-5306e00e13a0": {
+      "type": "testimonials",
+      "blocks": {
+        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>モビリティ<\/p>"
+          }
+        },
+        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/agreement.png",
+            "quote": "<p>親切・丁寧・スピーディーな対応<\/p>"
+          }
+        },
+        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-2": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-1",
+        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-0",
+        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-2"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaeaea",
+        "text_color": "#1c1b1b"
+      }
+    },
+    "f43bde7c-8b88-43d8-acab-55ef1becc018": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "日常使い向けアピールセクション",
+        "title": "通勤や通学を快適に",
+        "image": "shopify:\/\/shop_images\/83905695.webp",
+        "image_position": "right",
+        "content": "<p>バイクよりも手軽に！<\/p><p>自転車よりも楽に！<\/p><p>初期費用ゼロ。駐車場も不要。<\/p>",
+        "link_text": "ここに利用シーン紹介記事導線など",
+        "link_url": ""
+      }
+    },
+    "e2b25fca-a097-40f3-a32c-88f029fadee8": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "レジャー向けアピールセクション",
+        "title": "遊びをもっと楽しく",
+        "image": "shopify:\/\/shop_images\/4.jpg",
+        "image_position": "left",
+        "content": "<p>折り畳み可能で車にも楽々乗せられます！<\/p><p>持ち運び可能でキャンプやアウトドアのお供にも♩<\/p><p>目的地についたら現地では電動バイクで楽々移動<\/p>",
+        "link_text": "ここに利用シーン紹介記事導線など",
+        "link_url": ""
+      }
+    },
+    "fcaf1b23-2745-4644-b77f-276890c94ee4": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "title": "Recently viewed",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "f856b367-6c04-4583-8b07-816a471dbaad": {
+      "type": "blog-posts",
+      "blocks": {
+        "template--14298831093831__f856b367-6c04-4583-8b07-816a471dbaad-16751454821202b812-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "ニュース"
+          }
+        }
+      },
+      "block_order": [
+        "template--14298831093831__f856b367-6c04-4583-8b07-816a471dbaad-16751454821202b812-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "ニュース",
+        "show_category": false,
+        "button_link": "shopify:\/\/blogs\/ニュース",
+        "button_text": "ニュース一覧"
+      }
+    },
+    "dbc532e4-a286-43fc-b869-e448b3597465": {
+      "type": "image-with-text-block",
+      "settings": {
+        "background": "#ffffff",
+        "text_color": "#1c1b1b",
+        "block_size": "small",
+        "title": "Your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "show_parallax": true
+      }
+    },
+    "4508aa62-d59f-4ab8-b11a-b997969d9554": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "法人向けお問い合わせ導線",
+        "title": "ご利用をご検討中の法人のお客様へ",
+        "image": "shopify:\/\/shop_images\/67366794.jpg",
+        "image_position": "right",
+        "content": "<p>お問い合わせ または 0569-84-0082（代表）より直接お問い合わせください。<\/p><p>※当サイトでは一般消費者向け商品の販売・レンタルを行なっております。<\/p>",
+        "link_text": "お問い合わせはこちら",
+        "link_url": "shopify:\/\/pages\/contact"
+      }
+    },
+    "1675153110ed841f58": {
+      "type": "apps",
+      "blocks": {
+        "43ec6ffb-3fc4-49c0-9f06-9ba0873725c7": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 26,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "43ec6ffb-3fc4-49c0-9f06-9ba0873725c7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "ご確認ください。",
+        "title": "HTML埋め込みGoogle Map",
+        "html": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3272.3320695154334!2d136.94618501986193!3d34.89811525197957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6004850436561993%3A0x50e2ff1858cbdada!2z44CSNDc1LTA4MDcg5oSb55-l55yM5Y2K55Sw5biC5YWr6LuS55S677yY77yY4oiS77yR!5e0!3m2!1sja!2sjp!4v1675223931116!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "f1db953e-bf55-49d0-8c46-5306e00e13a0",
+    "f43bde7c-8b88-43d8-acab-55ef1becc018",
+    "e2b25fca-a097-40f3-a32c-88f029fadee8",
+    "fcaf1b23-2745-4644-b77f-276890c94ee4",
+    "f856b367-6c04-4583-8b07-816a471dbaad",
+    "dbc532e4-a286-43fc-b869-e448b3597465",
+    "4508aa62-d59f-4ab8-b11a-b997969d9554",
+    "1675153110ed841f58",
+    "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35"
+  ]
+}
