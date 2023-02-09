@@ -47,14 +47,9 @@
 
                 {%- if property.last == blank or first_character_in_key == '_' -%}
                   {%- continue -%}
-                  bbbbbb
                 {%- endif -%}
 
-                {%- if property.first == blank or first_character_in_key == '_' -%}
-                  aaaaaaa
-                {%- endif -%}
-
-                <li class="CartItem__Property">{{ property.first }}: {{ property.last }}</li>
+                <li class="CartItem__Property"><span>{{ property.first }}</span>: {{ property.last }}</li>
               {%- endfor -%}
             </ul>
           {%- endif -%}
