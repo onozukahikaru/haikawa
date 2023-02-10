@@ -67,6 +67,7 @@
         "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-1": {
           "type": "testimonial",
           "settings": {
+            "logo": "shopify:\/\/shop_images\/kindness.png",
             "quote": "<p>モビリティ<\/p>"
           }
         },
