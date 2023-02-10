@@ -155,6 +155,7 @@
     "dbc532e4-a286-43fc-b869-e448b3597465": {
       "type": "image-with-text-block",
       "settings": {
+        "image": "shopify:\/\/shop_images\/img_kv_03.jpg",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
         "block_size": "small",
