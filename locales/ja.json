@@ -433,7 +433,7 @@
       },
       "shipping": {
         "shipping_method_title": "商品の受取方法について　Shipping method title",
-        "shipping_method_notice": "テスト　hipping method notice"
+        "shipping_method_notice": "配送商品の場合、通常配送をご選択ください"
       }
     }
   }
