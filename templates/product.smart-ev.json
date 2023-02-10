@@ -6,6 +6,10 @@
         "product_meta": {
           "type": "product_meta",
           "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false
           }
         },
         "description": {
@@ -21,16 +25,23 @@
         "variant_selector": {
           "type": "variant_selector",
           "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+            "show_label": false
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": true
           }
         }
       },
@@ -43,22 +54,131 @@
         "buy_buttons"
       ],
       "settings": {
+        "image_size": "large",
+        "stack_images": true,
+        "show_thumbnails": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "blocks": {
+        "5bd4952a-f2b5-44ea-a975-eb61bd8e70f5": {
+          "type": "product",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "5bd4952a-f2b5-44ea-a975-eb61bd8e70f5"
+      ],
       "settings": {
+        "heading": "You may also like",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
       }
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
       "settings": {
+        "title": "Recently viewed",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "927ae840-1395-4375-844e-0be5541225bf": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14538639540295__927ae840-1395-4375-844e-0be5541225bf-167602123252993c20-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "template--14538639540295__927ae840-1395-4375-844e-0be5541225bf-167602123252993c20-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "template--14538639540295__927ae840-1395-4375-844e-0be5541225bf-167602123252993c20-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Collection name",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14538639540295__927ae840-1395-4375-844e-0be5541225bf-167602123252993c20-0",
+        "template--14538639540295__927ae840-1395-4375-844e-0be5541225bf-167602123252993c20-1",
+        "template--14538639540295__927ae840-1395-4375-844e-0be5541225bf-167602123252993c20-2"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "267dd86b-fdab-4553-9833-46d2329f0b3c": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14538639540295__267dd86b-fdab-4553-9833-46d2329f0b3c-16760213175cf7b988-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "店頭受取-smart-ev専用オプション商品",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538639540295__267dd86b-fdab-4553-9833-46d2329f0b3c-16760213175cf7b988-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
       }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "927ae840-1395-4375-844e-0be5541225bf",
+    "267dd86b-fdab-4553-9833-46d2329f0b3c"
   ]
 }
