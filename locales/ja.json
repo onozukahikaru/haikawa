@@ -432,7 +432,7 @@
         "delivery_option_title": "配達方法テスト"
       },
       "shipping": {
-        "shipping_method_title": "配送テスト　Shipping method title",
+        "shipping_method_title": "商品の受取方法について　Shipping method title",
         "shipping_method_notice": "テスト　hipping method notice"
       }
     }
