@@ -40,6 +40,18 @@
             <p class="CartItem__PlanAllocation">{{ line_item.selling_plan_allocation.selling_plan.name }}</p>
           {%- endif -%}
 
+    {% for p in item.properties %}
+  {% unless p.last == blank %}
+    <p>{{ p.first | replace: 'booking-start', 'Date' | replace: 'booking-time', 'Time' }}:
+      {% if p.last contains '/uploads/' %}
+        <a class="lightbox" href="{{ p.last }}">{{ p.last | split: '/' | last }}</a>
+      {% else %}
+        {{ p.last }}
+      {% endif %}
+    </p>
+  {% endunless %}
+{% endfor %}
+
           {%- if line_item.properties != empty -%}
             <ul class="CartItem__PropertyList">
               {%- for property in line_item.properties -%}
