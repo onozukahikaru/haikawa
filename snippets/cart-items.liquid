@@ -49,7 +49,7 @@
                   {%- continue -%}
                 {%- endif -%}
 
-                <li class="CartItem__Property"><span>{% if property.first contains 'START' %}aaa{%- endif -%}{{ property.first }}</span>: {{ property.last }}</li>
+                <li class="CartItem__Property"><span>{{ property.first }}</span>: {{ property.last }}</li>
               {%- endfor -%}
             </ul>
           {%- endif -%}
