@@ -94,7 +94,7 @@
       "settings": {
         "autoplay": true,
         "cycle_speed": 5,
-        "background": "#eaeaea",
+        "background": "#ffffff",
         "text_color": "#1c1b1b"
       }
     },
@@ -156,8 +156,8 @@
       "type": "image-with-text-block",
       "settings": {
         "image": "shopify:\/\/shop_images\/2023-02-10_14.07.21.png",
-        "background": "#ffffff",
-        "text_color": "#1c1b1b",
+        "background": "#1285c5",
+        "text_color": "#ffffff",
         "block_size": "small",
         "title": "販売商品アピール",
         "content": "<p>公道を走れる2輪・3輪タイプの商品を取り扱っています<\/p>",
