@@ -430,6 +430,9 @@
     "checkout": {
       "contact": {
         "delivery_option_title": "配達方法テスト"
+      },
+      "shipping": {
+        "shipping_method_title": "配送テスト　Shipping method title"
       }
     }
   }
