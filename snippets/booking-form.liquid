@@ -1,5 +1,5 @@
 {% comment %}
-BookThatApp 'Form 1 - Date'
+BookThatApp 'Form 2 - Date Range'
 {% endcomment %}
 
 {% if content_for_header contains 'bta-installed.js' and product.metafields.bookthatapp.config or product.metafields.bookthatapp.config_json or product.metafields.bookthatapp.json_config %}
@@ -22,14 +22,10 @@ BookThatApp 'Form 1 - Date'
       });
     </script>
 {% else %}
-  {% comment %}
-  <div class="bta-resource-picker"></div>
-  {% endcomment %}
-
   <div>
     {% capture attribute %}booking-start{% endcapture %}
-    <label for="{{ attribute }}-{{ product.handle }}">Date:</label>
-    <input id="{{ attribute }}-{{ product.handle }}" type="text" name="properties[Date]"
+    <label for="{{ attribute }}-{{ product.handle }}">From:</label>
+    <input id="{{ attribute }}-{{ product.handle }}" type="text" name="properties[From]"
            class="datepicker bta required bta-load-enable bta-dp-start" disabled="disabled"
            data-handle="{{ product.handle }}" data-variant="{{ product.selected_or_first_available_variant.id }}"
            {% if product.metafields.bookthatapp.json_config %}
@@ -39,6 +35,17 @@ BookThatApp 'Form 1 - Date'
            {% else %}
              data-bta-product-config="{{ product.metafields.bookthatapp.config }}"
            {% endif %}
+           data-bta-range-partner-id="#booking-finish-{{ product.handle }}"
+           {% comment %}data-bta-update-finish-date="true"{% endcomment %}
+           placeholder="Select date..." />
+  </div>
+
+  <div>
+    {% capture attribute %}booking-finish{% endcapture %}
+    <label for="{{ attribute }}-{{ product.handle }}">To:</label>
+    <input id="{{ attribute }}-{{ product.handle }}" type="text" name="properties[To]"
+           class="datepicker bta required bta-load-enable bta-dp-finish" disabled="disabled"
+           data-bta-range-partner-id="#booking-start-{{ product.handle }}"
            placeholder="Select date..." />
   </div>
 
