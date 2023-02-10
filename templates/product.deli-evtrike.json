@@ -6,6 +6,10 @@
         "product_meta": {
           "type": "product_meta",
           "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false
           }
         },
         "description": {
@@ -21,16 +25,23 @@
         "variant_selector": {
           "type": "variant_selector",
           "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+            "show_label": false
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": true
           }
         }
       },
@@ -43,22 +54,64 @@
         "buy_buttons"
       ],
       "settings": {
+        "image_size": "large",
+        "stack_images": true,
+        "show_thumbnails": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
+        "heading": "You may also like",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
       }
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "settings": {
+        "title": "Recently viewed",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "070fbb9e-6f70-4873-86c2-b8c1810a20ac": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14538651795527__070fbb9e-6f70-4873-86c2-b8c1810a20ac-16760213175cf7b988-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "配送-ev-trike専用オプション商品",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538651795527__070fbb9e-6f70-4873-86c2-b8c1810a20ac-16760213175cf7b988-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
       }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "070fbb9e-6f70-4873-86c2-b8c1810a20ac"
   ]
 }
