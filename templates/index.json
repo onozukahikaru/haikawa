@@ -162,7 +162,7 @@
         "title": "販売商品アピール",
         "content": "<p>公道を走れる2輪・3輪タイプの商品を取り扱っています<\/p>",
         "button_label": "詳しくはこちら",
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/販売商品アピール",
         "show_parallax": true
       }
     },
