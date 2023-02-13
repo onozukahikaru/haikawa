@@ -116,9 +116,9 @@
           "8029ada8-1a9a-4c4f-a4eb-e7a4a7bbd263"
         ],
         "settings": {
-          "show_payment_methods": true,
-          "show_country_selector": true,
-          "show_locale_selector": true
+          "show_payment_methods": false,
+          "show_country_selector": false,
+          "show_locale_selector": false
         }
       },
       "popup": {
