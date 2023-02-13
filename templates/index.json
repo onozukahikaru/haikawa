@@ -61,43 +61,6 @@
         "button_background": "#0c4d6a"
       }
     },
-    "f1db953e-bf55-49d0-8c46-5306e00e13a0": {
-      "type": "testimonials",
-      "blocks": {
-        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-1": {
-          "type": "testimonial",
-          "settings": {
-            "logo": "shopify:\/\/shop_images\/kindness.png",
-            "quote": "<p>モビリティ<\/p>"
-          }
-        },
-        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-0": {
-          "type": "testimonial",
-          "settings": {
-            "logo": "shopify:\/\/shop_images\/agreement.png",
-            "quote": "<p>親切・丁寧・スピーディーな対応<\/p>"
-          }
-        },
-        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-2": {
-          "type": "testimonial",
-          "settings": {
-            "logo": "shopify:\/\/shop_images\/speed.png",
-            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-1",
-        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-0",
-        "template--14298831093831__f1db953e-bf55-49d0-8c46-5306e00e13a0-1675145336a313c433-2"
-      ],
-      "settings": {
-        "autoplay": true,
-        "cycle_speed": 5,
-        "background": "#0c4d6a",
-        "text_color": "#e2e6ea"
-      }
-    },
     "f43bde7c-8b88-43d8-acab-55ef1becc018": {
       "type": "text-with-image",
       "settings": {
@@ -230,7 +193,6 @@
   },
   "order": [
     "slideshow",
-    "f1db953e-bf55-49d0-8c46-5306e00e13a0",
     "f43bde7c-8b88-43d8-acab-55ef1becc018",
     "e2b25fca-a097-40f3-a32c-88f029fadee8",
     "fcaf1b23-2745-4644-b77f-276890c94ee4",
