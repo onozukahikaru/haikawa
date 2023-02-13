@@ -113,7 +113,8 @@
     "e2b25fca-a097-40f3-a32c-88f029fadee8": {
       "type": "text-with-image",
       "custom_css": [
-        "{background: }"
+        ".FeatureText__ContentWrapper {background: #96bdcb;}",
+        ".Heading {color: white;}"
       ],
       "settings": {
         "subheading": "レジャー向けアピールセクション",
@@ -171,6 +172,10 @@
     },
     "4508aa62-d59f-4ab8-b11a-b997969d9554": {
       "type": "text-with-image",
+      "custom_css": [
+        ".FeatureText__ContentWrapper {background: #96bdcb;}",
+        ".Heading {color: white;}"
+      ],
       "settings": {
         "subheading": "法人向けお問い合わせ導線",
         "title": "ご利用をご検討中の法人のお客様へ",
