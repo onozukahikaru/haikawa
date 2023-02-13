@@ -112,6 +112,9 @@
     },
     "e2b25fca-a097-40f3-a32c-88f029fadee8": {
       "type": "text-with-image",
+      "custom_css": [
+        "{background: }"
+      ],
       "settings": {
         "subheading": "レジャー向けアピールセクション",
         "title": "遊びをもっと楽しく",
