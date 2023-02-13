@@ -189,6 +189,43 @@
         "map_link_label": "マップを見る",
         "link_url": "https:\/\/www.google.com\/maps\/place\/%E3%80%92475-0807+%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%8D%8A%E7%94%B0%E5%B8%82%E5%85%AB%E8%BB%92%E7%94%BA%EF%BC%98%EF%BC%98%E2%88%92%EF%BC%91\/@34.897612,136.947591,16z\/data=!4m5!3m4!1s0x6004850436561993:0x50e2ff1858cbdada!8m2!3d34.8976115!4d136.9475905?hl=ja"
       }
+    },
+    "945253c6-9806-46f2-9126-5e205da08ae3": {
+      "type": "testimonials",
+      "blocks": {
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/kindness.png",
+            "quote": "<p>安心のサポート体制<\/p>"
+          }
+        },
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-1": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/agreement.png",
+            "quote": "<p>ビジネスの特徴<\/p>"
+          }
+        },
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-2": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/speed.png",
+            "quote": "<p>スピード<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-0",
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-1",
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-2"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaeaea",
+        "text_color": "#1c1b1b"
+      }
     }
   },
   "order": [
@@ -201,6 +238,7 @@
     "4508aa62-d59f-4ab8-b11a-b997969d9554",
     "1675153110ed841f58",
     "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35",
-    "2df6b2c8-6ad6-47bb-9f08-958e6dda9dfc"
+    "2df6b2c8-6ad6-47bb-9f08-958e6dda9dfc",
+    "945253c6-9806-46f2-9126-5e205da08ae3"
   ]
 }
