@@ -91,14 +91,7 @@
                             {%- continue -%}
                           {%- endif -%}
 
-                          <li class="CartItem__Property"><span>
-                                {{-
-                                  property.first
-                                  | replace: 'START', 'ご利用開始日'
-                                  | replace: 'FINISH', 'ご利用終了日'
-                                -}}
-                              </span>: {{ property.last }}
-                          </li>
+                          <li class="CartItem__Property"><span>{{ property.first }}</span>: {{ property.last }}</li>
                         {%- endfor -%}
                       </ul>
                     {%- endif -%}
