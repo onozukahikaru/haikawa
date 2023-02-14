@@ -51,7 +51,7 @@
 
                 <li class="CartItem__Property">
                               {% unless property.last == blank %}
-                                <span>{{ property.first | replace: 'START', 'aaa' | replace: 'FINISH', 'bbb' }}:{{ property.last }}</span>
+                                <span>{{ property.first | replace: 'ヘルメット（無料）', 'aaa' | replace: 'スマホホルダー（無料）', 'bbb' }}:{{ property.last }}</span>
                               {% endunless %}
                           </li>
               {%- endfor -%}
