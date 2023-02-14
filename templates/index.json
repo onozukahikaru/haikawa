@@ -148,6 +148,10 @@
       "block_order": [
         "template--14298831093831__f856b367-6c04-4583-8b07-816a471dbaad-16751454821202b812-0"
       ],
+      "custom_css": [
+        ".Section {background: #eeead7 ;}",
+        ".SectionHeader__Heading {color: #1c1b1b;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "ニュース",
