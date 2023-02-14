@@ -106,12 +106,31 @@
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4
       }
+    },
+    "b23687ef-f650-43b0-bb19-a6e1f069a345": {
+      "type": "featured-video",
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "subheading": "Sub-heading",
+        "title": "Your video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=o1Tvw6ZykZg"
+      }
+    },
+    "331612a9-ad7c-4145-a7ce-da5e7ee176c8": {
+      "type": "background-video",
+      "settings": {
+        "section_size": "preserveRatio",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "recently-viewed-products",
-    "15ae60d2-fb6c-4fc5-9fee-4b09018dde1a"
+    "15ae60d2-fb6c-4fc5-9fee-4b09018dde1a",
+    "b23687ef-f650-43b0-bb19-a6e1f069a345",
+    "331612a9-ad7c-4145-a7ce-da5e7ee176c8"
   ]
 }
