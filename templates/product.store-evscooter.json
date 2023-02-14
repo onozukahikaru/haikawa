@@ -131,14 +131,14 @@
           "type": "testimonial",
           "settings": {
             "logo": "shopify:\/\/shop_images\/ebf0a24faf7c4b0cae8df3d40edb8c00.png",
-            "quote": "<p>サスペンション<\/p>"
+            "quote": "<p><strong>サスペンション<\/strong><\/p>"
           }
         },
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-1": {
           "type": "testimonial",
           "settings": {
             "logo": "shopify:\/\/shop_images\/LED.png",
-            "quote": "<p>LEDヘッドライト<\/p>"
+            "quote": "<p><strong>LEDヘッドライト<\/strong><\/p><p>暗い夜道も〇〇ワットで照らします。<\/p>"
           }
         },
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2": {
@@ -197,6 +197,13 @@
             "quote": "<p>デジタルメーター<\/p>"
           }
         },
+        "233ca695-d91f-4765-9d29-d78412a31f79": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/7a3c632f886f54861004659136c0b262.png",
+            "quote": "<p>スロットルグリップ<\/p>"
+          }
+        },
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-0": {
           "type": "testimonial",
           "settings": {
@@ -210,20 +217,13 @@
             "logo": "shopify:\/\/shop_images\/4e167169203bacbd3896a67aee047810.jpg",
             "quote": "<p>低反発サドル<\/p>"
           }
-        },
-        "233ca695-d91f-4765-9d29-d78412a31f79": {
-          "type": "testimonial",
-          "settings": {
-            "logo": "shopify:\/\/shop_images\/7a3c632f886f54861004659136c0b262.png",
-            "quote": "<p>スロットルグリップ<\/p>"
-          }
         }
       },
       "block_order": [
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-2",
+        "233ca695-d91f-4765-9d29-d78412a31f79",
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-0",
-        "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-1",
-        "233ca695-d91f-4765-9d29-d78412a31f79"
+        "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-1"
       ],
       "settings": {
         "autoplay": true,
