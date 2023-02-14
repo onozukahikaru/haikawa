@@ -64,6 +64,13 @@ footer .Footer__Inner .Footer__Title{
 }
 
 
+/* カート */
+.CartItem__Property:nth-child(1) span,
+.CartItem__Property:nth-child(2) span
+{
+  color: #db2b2b;
+}
+
 
  /* ご利用案内ページ */
  .section_margin{
