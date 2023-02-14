@@ -116,6 +116,13 @@
         "title": "Your video",
         "video_url": "https:\/\/www.youtube.com\/watch?v=2SOMBv0djPQ"
       }
+    },
+    "12751a51-3934-4047-bb1c-14e7b7157fa9": {
+      "type": "background-video",
+      "settings": {
+        "section_size": "preserveRatio",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=2SOMBv0djPQ"
+      }
     }
   },
   "order": [
@@ -123,6 +130,7 @@
     "product-recommendations",
     "recently-viewed-products",
     "63e3eff7-8b9d-4531-b0c0-78214824a6d9",
-    "b6b77205-c1f2-4e98-9a93-403d929baa86"
+    "b6b77205-c1f2-4e98-9a93-403d929baa86",
+    "12751a51-3934-4047-bb1c-14e7b7157fa9"
   ]
 }
