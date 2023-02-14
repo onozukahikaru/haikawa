@@ -112,7 +112,7 @@
       "settings": {
         "section_size": "large",
         "text_color": "#ffffff",
-        "subheading": "",
+        "subheading": "Sub-heading",
         "title": "Your video",
         "video_url": "https:\/\/www.youtube.com\/watch?v=2SOMBv0djPQ"
       }
