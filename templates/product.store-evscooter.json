@@ -154,13 +154,21 @@
             "logo": "shopify:\/\/shop_images\/a67ac278ba611403e08132df5d5b1a37.png",
             "quote": "<p>家庭用コンセントからの充電<\/p>"
           }
+        },
+        "f6702c9a-01eb-44c8-92a4-4b5937c2acf6": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/fb1a56e5dff9e70a05aecbc601995d7f.png",
+            "quote": "<p>デジタルメーター<\/p>"
+          }
         }
       },
       "block_order": [
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-0",
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-1",
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2",
-        "9fbe9dca-411a-4461-aeee-485dfb793a78"
+        "9fbe9dca-411a-4461-aeee-485dfb793a78",
+        "f6702c9a-01eb-44c8-92a4-4b5937c2acf6"
       ],
       "settings": {
         "autoplay": true,
