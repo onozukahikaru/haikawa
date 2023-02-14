@@ -144,7 +144,8 @@
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2": {
           "type": "testimonial",
           "settings": {
-            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+            "logo": "shopify:\/\/shop_images\/ebf0a24faf7c4b0cae8df3d40edb8c00.png",
+            "quote": "<p>ディスクブレーキ<\/p>"
           }
         }
       },
