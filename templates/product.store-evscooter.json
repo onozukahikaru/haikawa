@@ -190,6 +190,13 @@
     "6d5d91e1-e806-4cb7-8a34-000e09534159": {
       "type": "testimonials",
       "blocks": {
+        "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-2": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/fb1a56e5dff9e70a05aecbc601995d7f.png",
+            "quote": "<p>デジタルメーター<\/p>"
+          }
+        },
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-0": {
           "type": "testimonial",
           "settings": {
@@ -204,18 +211,19 @@
             "quote": "<p>低反発サドル<\/p>"
           }
         },
-        "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-2": {
+        "233ca695-d91f-4765-9d29-d78412a31f79": {
           "type": "testimonial",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/fb1a56e5dff9e70a05aecbc601995d7f.png",
-            "quote": "<p>デジタルメーター<\/p>"
+            "logo": "shopify:\/\/shop_images\/7a3c632f886f54861004659136c0b262.png",
+            "quote": "<p>スロットルグリップ<\/p>"
           }
         }
       },
       "block_order": [
+        "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-2",
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-0",
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-1",
-        "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-2"
+        "233ca695-d91f-4765-9d29-d78412a31f79"
       ],
       "settings": {
         "autoplay": true,
