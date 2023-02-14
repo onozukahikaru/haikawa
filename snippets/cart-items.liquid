@@ -50,7 +50,7 @@
                 {%- endif -%}
 
                 <li class="CartItem__Property">
-                    <span>{{ property.first | replace: 'start', 'aaa' | replace: 'finish', 'bbb' }}</span>:{{ property.last }}
+                    <span>{{ property.first | replace: 'Start', 'ご利用開始日' | replace: 'Finish', 'ご利用終了日' }}</span>:{{ property.last }}
                 </li>
               {%- endfor -%}
             </ul>
