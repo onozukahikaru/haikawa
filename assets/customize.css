@@ -8,12 +8,15 @@
 /**
  * Base
  */
-
+body{
+  font-family: 'Noto Sans JP', sans-serif;
+}
 
 
  /* セクション */
  .Heading{
   font-weight: bold;
+  font-family: 'Noto Sans JP', sans-serif;
  }
 .AnnouncementBar__Wrapper{
   padding: 10px 0 0;
@@ -63,6 +66,9 @@ footer .Footer__Inner .Footer__Title{
 
 
  /* ご利用案内ページ */
+ .section_margin{
+  margin-bottom: 4rem;
+ }
 .section_step{
   display: flex;
   align-items: flex-start;
@@ -75,13 +81,168 @@ footer .Footer__Inner .Footer__Title{
   margin: 0;
     margin-top: 1rem;
 }
+.shopify-section .section_title{
+  color: black;
+}
+.shopify-section .section_step__number{
+  background: black;
+  font-size: 1rem!important;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+.image_terms__list .image_terms__item{
+  background: #e2e6ea;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 23%;
+  margin-right: 1%;
+  padding: 10px 5px;
+}
+.image_terms{
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+.image_terms .image_terms__list{
+  display: flex;
+  list-style: none;
+  margin-left: 0;
+}
+.image_terms__list .image_terms__item.active{
+  background: #96bdcb;
+}
+.image_terms__list .image_terms__item.center{
+  position: relative;
+}
+.image_terms__list .image_terms__item .terms_bar{
+  background: black;
+  color: white;
+  text-align: center;
+  position: absolute;
+  bottom: 20px;
+  width: 230%;
+  padding: 8px;
+}
+.terms_bar::before{
+  content: '';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-top: 19px solid transparent;
+  border-bottom: 19px solid transparent;
+  border-left: 18px solid black;
+  border-right: 0;
+  position: absolute;
+  right: -7%;
+  bottom: 0;
+}
+.image_terms__list .image_terms__item .day{
+  background: white;
+  padding: 2px 10px;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+.image_terms__list .image_terms__item .description{
+  text-align: center;
+}
+.image_terms__item .description p,
+.image_terms__item p.description{
+  font-weight: bold;
+}
+.image_terms__item .description span{
+  font-size: 0.8rem;
+}
+.section_cancel__body ul,
+.section_guarantee__body ol,
+.section_guarantee__body ul{
+  margin-left: 0;
+}
+.section_cancel__box{
+  margin-bottom: 2rem;
+}
+.section_cancel__header,
+.section_guarantee__header{
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.section_guarantee__link{
+  margin-bottom: 2rem;
+}
+.section_guarantee__body.bg_gray{
+  background: #e2e6ea;
+  padding: 10px 10px 10px 20px;
+}
+@media screen and (max-width: 640px){
+  .section_step__box{
+    margin: 0;
+  }
+  .image_terms{
+	  overflow-x: scroll;
+  }
+  .image_terms__list .image_terms__item{
+    flex-shrink: 0;
+    width: 30%;
+  }
+  .shopify-section .section_step__number{
+    padding: 6px 10px;
+  }
+  .section_guarantee__body.bg_gray{
+    margin-left: 0;
+  }
+  .section_cancel__body,
+  .section_guarantee__body{
+    margin-left: 0;
+  }
+  .section_cancel__body ul,
+  .section_guarantee__body ol,
+  .section_guarantee__body ul{
+    margin-left: 20px;
+  }
+
+}
 @media screen and (min-width: 641px) {
   .section_step{
     flex-direction: row;
+    align-items: baseline;
   }
-  .section_step__number{
-    width: 20%;
-    margin: 0;
+  .shopify-section .section_step__number{
+    width: auto;
+    min-width: 90px;
+    margin-right: 5%;
+  }
+  .section_shop,
+  .section_deilver{
+    position: relative;
+  }
+  .section_shop::before{
+    content: "";
+    background: -webkit-gradient(linear, left top, left bottom, from(rgb(0,0,0)), color-stop(50%, rgb(0,0,0)), color-stop(50%, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0))) 0% 0%;
+    background: linear-gradient(to bottom, rgb(0,0,0), rgb(0,0,0) 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 100%) 0% 0%;
+    background-size: 4px 8px;
+    width: 4px;
+    height: 61%;
+    position: absolute;
+    top: 90px;
+    left: 20px;
+  }
+  .section_deilver::before{
+    content: "";
+    background: -webkit-gradient(linear, left top, left bottom, from(rgb(0,0,0)), color-stop(50%, rgb(0,0,0)), color-stop(50%, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0))) 0% 0%;
+    background: linear-gradient(to bottom, rgb(0,0,0), rgb(0,0,0) 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 100%) 0% 0%;
+    background-size: 4px 8px;
+    width: 4px;
+    height: 61%;
+    position: absolute;
+    top: 90px;
+    left: 20px;
+  }
+  .section_cancel__body ul,
+  .section_guarantee__body ol,
+  .section_guarantee__body ul{
+    margin-left: 0;
   }
 }
 
