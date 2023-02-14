@@ -123,6 +123,41 @@
         "section_size": "preserveRatio",
         "video_url": "https:\/\/www.youtube.com\/watch?v=2SOMBv0djPQ"
       }
+    },
+    "c38fd365-c8f0-4b0a-9fed-132a0676beaf": {
+      "type": "testimonials",
+      "blocks": {
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/ebf0a24faf7c4b0cae8df3d40edb8c00.png",
+            "quote": "<p>サスペンション<\/p>"
+          }
+        },
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        },
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-0",
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-1",
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaeaea",
+        "text_color": "#1c1b1b"
+      }
     }
   },
   "order": [
@@ -131,6 +166,7 @@
     "recently-viewed-products",
     "63e3eff7-8b9d-4531-b0c0-78214824a6d9",
     "b6b77205-c1f2-4e98-9a93-403d929baa86",
-    "12751a51-3934-4047-bb1c-14e7b7157fa9"
+    "12751a51-3934-4047-bb1c-14e7b7157fa9",
+    "c38fd365-c8f0-4b0a-9fed-132a0676beaf"
   ]
 }
