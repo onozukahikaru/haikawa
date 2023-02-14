@@ -106,12 +106,23 @@
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4
       }
+    },
+    "b6b77205-c1f2-4e98-9a93-403d929baa86": {
+      "type": "featured-video",
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "subheading": "",
+        "title": "Your video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=2SOMBv0djPQ"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "recently-viewed-products",
-    "63e3eff7-8b9d-4531-b0c0-78214824a6d9"
+    "63e3eff7-8b9d-4531-b0c0-78214824a6d9",
+    "b6b77205-c1f2-4e98-9a93-403d929baa86"
   ]
 }
