@@ -157,6 +157,7 @@
         },
         "f6702c9a-01eb-44c8-92a4-4b5937c2acf6": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "logo": "shopify:\/\/shop_images\/fb1a56e5dff9e70a05aecbc601995d7f.png",
             "quote": "<p>デジタルメーター<\/p>"
@@ -164,6 +165,7 @@
         },
         "6d5a8079-3b2c-4182-8b29-2303a5fb7016": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "logo": "shopify:\/\/shop_images\/7a3c632f886f54861004659136c0b262.png",
             "quote": "<p>スロットルグリップ<\/p>"
@@ -205,7 +207,8 @@
         "template--14538645700679__6d5d91e1-e806-4cb7-8a34-000e09534159-1676358245609caad2-2": {
           "type": "testimonial",
           "settings": {
-            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+            "logo": "shopify:\/\/shop_images\/fb1a56e5dff9e70a05aecbc601995d7f.png",
+            "quote": "<p>デジタルメーター<\/p>"
           }
         }
       },
