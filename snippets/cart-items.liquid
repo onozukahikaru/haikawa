@@ -50,10 +50,8 @@
                 {%- endif -%}
 
                 <li class="CartItem__Property">
-                              {% unless property.last == blank %}
-                                <span>{{ property.first | replace: 'start', 'aaa' | replace: 'finish', 'bbb' }}:{{ property.last }}</span>
-                              {% endunless %}
-                          </li>
+                    <span>{{ property.first | replace: 'start', 'aaa' | replace: 'finish', 'bbb' }}</span>:{{ property.last }}
+                </li>
               {%- endfor -%}
             </ul>
           {%- endif -%}
