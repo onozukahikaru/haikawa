@@ -147,12 +147,20 @@
             "logo": "shopify:\/\/shop_images\/ebf0a24faf7c4b0cae8df3d40edb8c00.png",
             "quote": "<p>ディスクブレーキ<\/p>"
           }
+        },
+        "9fbe9dca-411a-4461-aeee-485dfb793a78": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/a67ac278ba611403e08132df5d5b1a37.png",
+            "quote": "<p>家庭用コンセントからの充電<\/p>"
+          }
         }
       },
       "block_order": [
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-0",
         "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-1",
-        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2"
+        "template--14538645700679__c38fd365-c8f0-4b0a-9fed-132a0676beaf-1676358245609caad2-2",
+        "9fbe9dca-411a-4461-aeee-485dfb793a78"
       ],
       "settings": {
         "autoplay": true,
