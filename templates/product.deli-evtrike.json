@@ -106,12 +106,20 @@
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4
       }
+    },
+    "e7bf2eb1-22d6-4417-9d6d-08c88f1a58b6": {
+      "type": "background-video",
+      "settings": {
+        "section_size": "preserveRatio",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=a8Pot4yLJBs"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "recently-viewed-products",
-    "070fbb9e-6f70-4873-86c2-b8c1810a20ac"
+    "070fbb9e-6f70-4873-86c2-b8c1810a20ac",
+    "e7bf2eb1-22d6-4417-9d6d-08c88f1a58b6"
   ]
 }
