@@ -116,11 +116,11 @@
     "f43bde7c-8b88-43d8-acab-55ef1becc018": {
       "type": "text-with-image",
       "settings": {
-        "subheading": "日常使い向けアピールセクション",
-        "title": "通勤や通学を快適に",
-        "image": "shopify:\/\/shop_images\/yiting-he-IYYz6kvMHH0-unsplash_1.jpg",
+        "subheading": "",
+        "title": "バイクよりも手軽に、自転車よりも楽に。",
+        "image": "shopify:\/\/shop_images\/131cdd16b28c76edc543926c14ab280a.jpg",
         "image_position": "right",
-        "content": "<p>バイクよりも手軽に！<\/p><p>自転車よりも楽に！<\/p><p>初期費用ゼロ。駐車場も不要。<\/p>",
+        "content": "<p>通勤・通学、ちょっとそこまでのお買い物「チョイ乗り」に最適<br\/>レンタルなら初期費用ゼロ。<br\/>ガソリン、オイル交換などのメンテナンス費用も不要<\/p>",
         "link_text": "ここに利用シーン紹介記事導線など",
         "link_url": ""
       }
