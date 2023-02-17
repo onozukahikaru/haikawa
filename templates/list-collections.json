@@ -6,7 +6,7 @@
         "2db09174-bf42-45ca-9398-2c8a12e8ff8f": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "配送-ev-scooterオプション商品",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
