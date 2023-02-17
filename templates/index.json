@@ -44,12 +44,27 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "dace14af-06e9-4d3f-b94d-a8f94016b691": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7f9a093bf7216e8e4c04e3a6a4d6ca18.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Slide title",
+            "title": "",
+            "button_1_text": "レンタル商品一覧",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
         "slide-1",
         "slide-0",
-        "b1fc07e9-34e9-4a79-ab1a-655bc3ccf0be"
+        "b1fc07e9-34e9-4a79-ab1a-655bc3ccf0be",
+        "dace14af-06e9-4d3f-b94d-a8f94016b691"
       ],
       "settings": {
         "show_fullscreen": false,
@@ -149,7 +164,7 @@
         "template--14298831093831__f856b367-6c04-4583-8b07-816a471dbaad-16751454821202b812-0"
       ],
       "custom_css": [
-        ".Section {background: #eeead7 ;}",
+        ".Section {background: #eeead7;}",
         ".SectionHeader__Heading {color: #1c1b1b;}"
       ],
       "settings": {
