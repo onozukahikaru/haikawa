@@ -17,7 +17,18 @@
         "b9e77bb6-fd92-492f-b11a-17730e12cf84": {
           "type": "collection",
           "settings": {
-            "collection": "店頭受取-ev-trike専用オプション商品",
+            "collection": "配送-ev-trike専用オプション商品",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "Sub-heading",
+            "title": "Heading",
+            "button_text": "View products"
+          }
+        },
+        "23f22624-3286-4394-b200-e37a9dde60a9": {
+          "type": "collection",
+          "settings": {
+            "collection": "配送-smart-ev専用オプション商品",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
@@ -28,7 +39,8 @@
       },
       "block_order": [
         "e2e3ca53-7710-4671-823c-cc56cacc423f",
-        "b9e77bb6-fd92-492f-b11a-17730e12cf84"
+        "b9e77bb6-fd92-492f-b11a-17730e12cf84",
+        "23f22624-3286-4394-b200-e37a9dde60a9"
       ],
       "settings": {
         "collections_to_show": "selected",
