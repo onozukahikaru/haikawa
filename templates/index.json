@@ -3,48 +3,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20200414-IMG_2849.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "通勤・通学ちょっとそこまでのお買い物　「チョイ乗り」に最適",
-            "title": "日常をスマートに",
-            "button_1_text": "さらに詳しく",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "slide-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_6554.png",
-            "apply_overlay": true,
-            "content_position": "bottomRight",
-            "subheading": "海や釣り、キャンプにも！車に積んで現地で活躍",
-            "title": "アウトドアレジャーのお供に",
-            "button_1_text": "さらに詳しく",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "b1fc07e9-34e9-4a79-ab1a-655bc3ccf0be": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20200409-IMG_2609.jpg",
-            "apply_overlay": true,
-            "content_position": "middleLeft",
-            "subheading": "どこへでも気軽に、身軽に乗れる3輪バイク。",
-            "title": "街乗りに、ちょっとした買い物に、気分転換に。",
-            "button_1_text": "さらに詳しく",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "dace14af-06e9-4d3f-b94d-a8f94016b691": {
           "type": "image",
           "settings": {
@@ -62,9 +20,6 @@
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-0",
-        "b1fc07e9-34e9-4a79-ab1a-655bc3ccf0be",
         "dace14af-06e9-4d3f-b94d-a8f94016b691"
       ],
       "settings": {
