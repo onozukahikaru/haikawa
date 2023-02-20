@@ -81,6 +81,32 @@
         "show_color_swatch": false
       }
     },
+    "659fc163-5768-45f0-a8eb-2806d403def8": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14542347272263__659fc163-5768-45f0-a8eb-2806d403def8-1676897029099b60fa-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "配送-smart-ev専用オプション商品",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14542347272263__659fc163-5768-45f0-a8eb-2806d403def8-1676897029099b60fa-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
     "866e4e65-4d1f-4312-98ab-36cf9c6958f0": {
       "type": "background-video",
       "settings": {
@@ -93,6 +119,7 @@
     "main",
     "product-recommendations",
     "recently-viewed-products",
+    "659fc163-5768-45f0-a8eb-2806d403def8",
     "866e4e65-4d1f-4312-98ab-36cf9c6958f0"
   ]
 }
