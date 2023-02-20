@@ -49,6 +49,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/5e04187996994ee5262f6b8d5568e7c9.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/750x1100.png",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "3日\/5.000円～レンタル可",
