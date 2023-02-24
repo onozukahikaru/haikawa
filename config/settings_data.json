@@ -109,7 +109,7 @@
             "settings": {
               "title": "リンクかテキストで情報を掲載",
               "content": "",
-              "show_social_media": true
+              "show_social_media": false
             }
           }
         },
