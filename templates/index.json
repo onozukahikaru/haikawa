@@ -22,6 +22,9 @@
       "block_order": [
         "dace14af-06e9-4d3f-b94d-a8f94016b691"
       ],
+      "custom_css": [
+        ".SectionHeader__SubHeading{font-size: 20px;}"
+      ],
       "settings": {
         "show_fullscreen": false,
         "show_arrow": false,
