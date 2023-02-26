@@ -23,7 +23,7 @@
         "dace14af-06e9-4d3f-b94d-a8f94016b691"
       ],
       "custom_css": [
-        ".SectionHeader__SubHeading{font-size: 20px;}"
+        ".SectionHeader__SubHeading {font-size: 20px;}"
       ],
       "settings": {
         "show_fullscreen": false,
@@ -74,6 +74,9 @@
     },
     "f43bde7c-8b88-43d8-acab-55ef1becc018": {
       "type": "text-with-image",
+      "custom_css": [
+        ".SectionHeader__Heading {font-size: 25px;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "バイクよりも手軽に、自転車よりも楽に。",
