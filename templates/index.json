@@ -58,12 +58,20 @@
             "logo": "shopify:\/\/shop_images\/icon_teikosuto.png",
             "quote": "<p><strong>低コスト<\/strong><\/p><p>購入した場合の車両代はもちろん、ガソリン代、故障時の修理代も必要ありません。<br\/>家庭用コンセントの充電で1回あたりの電気13円～26円！※車種によります<\/p>"
           }
+        },
+        "dfe92527-f305-4fdd-b21e-7285e8fc5f11": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon_hitsuyou.png",
+            "quote": "<p><strong>必要な時だけ<\/strong><\/p><p>必要な時期だけ。旅行やキャンプ、アウトドア時に1日だけ。<br\/>などなど様々な用途に合わせてご利用いただけます。<\/p>"
+          }
         }
       },
       "block_order": [
         "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-0",
         "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-1",
-        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-2"
+        "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-2",
+        "dfe92527-f305-4fdd-b21e-7285e8fc5f11"
       ],
       "settings": {
         "autoplay": true,
