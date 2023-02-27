@@ -60,7 +60,11 @@ footer .Footer__Inner .Footer__Title{
   .section_map_customize{
     padding: 80px 0;
   }
-  
+  #shopify-section-template--14544953573447__f43bde7c-8b88-43d8-acab-55ef1becc018 .SectionHeader__Heading,
+  #shopify-section-template--14544953573447__e2b25fca-a097-40f3-a32c-88f029fadee8 .SectionHeader__Heading{
+    font-size: 33px!important;
+  }
+
 }
 
 
@@ -70,7 +74,9 @@ footer .Footer__Inner .Footer__Title{
 {
   color: #db2b2b;
 }
-
+.CartItem__PropertyList{
+  font-style: inherit;
+}
 
  /* ご利用案内ページ */
  .section_margin{
