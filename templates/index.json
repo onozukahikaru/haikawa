@@ -7,6 +7,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/5e04187996994ee5262f6b8d5568e7c9.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/4afa97dbc073281cc16e02fa3c0960cc.png",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
