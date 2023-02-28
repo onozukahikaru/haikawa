@@ -35,8 +35,40 @@
         "button_background": "#0c4d6a"
       }
     },
+    "14987b0a-d401-4ccd-ac1f-6a7c75220253": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14538005938247__14987b0a-d401-4ccd-ac1f-6a7c75220253-167757023503ce571c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7ef8bbe071b0124c5862c96fcc5180c1.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14538005938247__14987b0a-d401-4ccd-ac1f-6a7c75220253-167757023503ce571c-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
     "945253c6-9806-46f2-9126-5e205da08ae3": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "template--14538005938247__945253c6-9806-46f2-9126-5e205da08ae3-1676270740c1d3310c-0": {
           "type": "testimonial",
@@ -220,6 +252,7 @@
   },
   "order": [
     "slideshow",
+    "14987b0a-d401-4ccd-ac1f-6a7c75220253",
     "945253c6-9806-46f2-9126-5e205da08ae3",
     "f43bde7c-8b88-43d8-acab-55ef1becc018",
     "e2b25fca-a097-40f3-a32c-88f029fadee8",
