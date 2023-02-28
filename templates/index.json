@@ -6,11 +6,11 @@
         "dace14af-06e9-4d3f-b94d-a8f94016b691": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5e04187996994ee5262f6b8d5568e7c9.jpg",
+            "image": "shopify:\/\/shop_images\/PC_2.png",
             "mobile_image": "shopify:\/\/shop_images\/4afa97dbc073281cc16e02fa3c0960cc.png",
             "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
+            "content_position": "bottomCenter",
+            "subheading": "必要なときだけレンタル",
             "title": "3日\/￥5,000～",
             "button_1_text": "配送商品一覧",
             "button_1_link": "shopify:\/\/pages\/delivery",
