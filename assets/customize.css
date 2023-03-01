@@ -11,7 +11,10 @@
 body{
   font-family: 'Noto Sans JP', sans-serif;
 }
-
+.Button:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
 
  /* セクション */
  .Heading{
