@@ -23,7 +23,7 @@
         "dace14af-06e9-4d3f-b94d-a8f94016b691"
       ],
       "custom_css": [
-        ".SectionHeader__SubHeading {font-size: 20px; margin-bottom: 5px;}",
+        ".SectionHeader__SubHeading {font-size: 20px; margin-bottom: 0;}",
         ".SectionHeader__Heading {margin-top: 0; margin-bottom: 20px;}"
       ],
       "settings": {
