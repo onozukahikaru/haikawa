@@ -24,14 +24,14 @@ $(function() {
     // （T）「アカウント作成」ボタン周辺エリアの前に利用規約エリアを配置
     registerButton.before(agreementArea);
   
-    //  「アカウント作成」ボタンの上マージンを取得
-    const marginTopOfButton = registerButton.css('margin-top');
+    // //  「アカウント作成」ボタンの上マージンを取得
+    // const marginTopOfButton = registerButton.css('margin-top');
 
-    //  利用規約エリアのCSSに「アカウント作成」ボタンの上マージンを追加
-    $('.agree-checkbox').css('margin-top', marginTopOfButton);
+    // //  利用規約エリアのCSSに「アカウント作成」ボタンの上マージンを追加
+    // $('.agree-checkbox').css('margin-top', marginTopOfButton);
 
-    //  「アカウント作成」ボタン上のマージンを変更
-    registerButton.css('margin-top', '1rem');
+    // //  「アカウント作成」ボタン上のマージンを変更
+    // registerButton.css('margin-top', '1rem');
 
     /*（C）
       【HTML読込後処理：「アカウント作成」ボタンの初期状態をdisabledに設定】　
