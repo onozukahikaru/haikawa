@@ -21,6 +21,8 @@ $(function() {
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
     const registerButton = $('#Form__Submit'); 
 
+  console.log(registerButton);
+
     // （T）「アカウント作成」ボタン周辺エリアの前に利用規約エリアを配置
     registerButton.before(agreementArea);
   
