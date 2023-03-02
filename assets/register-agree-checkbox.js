@@ -1,7 +1,5 @@
 $(function() {
 
-  $('div').after('<p>新しく追加した要素</p>');
-  
     /*（C）
       【利用ルール】
       ・（C）記載がついたコメントは、動作確認完了後削除してください。
@@ -21,7 +19,7 @@ $(function() {
     var agreementArea = '<div class="agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
 
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
-    const registerButton = $('#Form__Submit'); 
+    const registerButton = $('.Form__Submit'); 
 
   
 
