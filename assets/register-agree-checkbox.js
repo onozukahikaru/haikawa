@@ -15,16 +15,17 @@ $(function() {
   
     var message = '<a href="' + url + '" target="_blank">利用規約</a>に同意しアカウントを作成します'; 
 
-  alert(message);
     // （C）利用規約エリアを包括する要素
     var agreementArea = '<div class="agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
-alert(agreementArea);
+
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
     const registerButton = $('#Form__Submit'); 
-alert(registerButton);
+
     // （T）「アカウント作成」ボタン周辺エリアの前に利用規約エリアを配置
     registerButton.before(agreementArea);
-
+  
+  registerButton.after(agreementArea);
+  
     //  「アカウント作成」ボタンの上マージンを取得
     const marginTopOfButton = registerButton.css('margin-top');
 
