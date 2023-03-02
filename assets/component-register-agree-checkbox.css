@@ -4,5 +4,10 @@
 
 .CustomerRegisterButton:disabled {
   background-color: #cccccc;
+  border-color: #cccccc;
+  color: #666666;
+}
+.CustomerRegisterButton:disabled::before {
+  background-color: #cccccc;
   color: #666666;
 }
