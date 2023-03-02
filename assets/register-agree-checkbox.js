@@ -28,7 +28,7 @@ $(function() {
     const marginTopOfButton = registerButton.css('margin-top');
 
     //  利用規約エリアのCSSに「アカウント作成」ボタンの上マージンを追加
-    $('.agree-checkbox').css('margin-top', marginTopOfButton);
+    $('.register__agree-checkbox').css('margin-top', marginTopOfButton);
 
     //  「アカウント作成」ボタン上のマージンを変更
     registerButton.css('margin-top', '1rem');
