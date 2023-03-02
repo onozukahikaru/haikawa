@@ -22,8 +22,6 @@ $(function() {
 
     // （T）「アカウント作成」ボタン周辺エリアの前に利用規約エリアを配置
     registerButton.before(agreementArea);
-
-alert(1);
   
     // //  「アカウント作成」ボタンの上マージンを取得
     // const marginTopOfButton = registerButton.css('margin-top');
