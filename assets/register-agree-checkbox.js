@@ -19,7 +19,7 @@ $(function() {
     var agreementArea = '<div class="cart__agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
 
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
-    const registerButton = $('#create_customer button'); 
+    const registerButton = $('#CustomerRegisterButton'); 
 
     // （T）「アカウント作成」ボタン周辺エリアの前に利用規約エリアを配置
     registerButton.before(agreementArea);
