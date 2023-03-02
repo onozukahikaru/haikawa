@@ -16,7 +16,7 @@ $(function() {
     var message = '<a href="' + url + '" target="_blank">利用規約</a>に同意しアカウントを作成します'; 
 
     // （C）利用規約エリアを包括する要素
-    var agreementArea = '<div class="agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
+    var agreementArea = '<div class="register__agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
 
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
     const registerButton = $('.CustomerRegisterButton'); 
