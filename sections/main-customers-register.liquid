@@ -1,3 +1,6 @@
+{{ 'component-register-agree-checkbox.css' | asset_url | stylesheet_tag }}
+<!-- <script src=""{{ 'register-agree-checkbox.js' | asset_url }}"" defer></script> -->
+
 <section data-section-id="reset-password" data-section-type="reset-password">
   <div class="Container">
     <div class="PageContent PageContent--fitScreen PageContent--extraNarrow">
@@ -53,7 +56,7 @@
           <label class="Form__FloatingLabel">{{ 'customer.register.password' | t }}</label>
         </div>
 
-ああああ宛すと
+
       
         <button type="submit" class="Form__Submit Button Button--primary Button--full">{{ 'customer.register.submit' | t }}</button>
       {%- endform -%}
