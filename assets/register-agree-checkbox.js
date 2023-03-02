@@ -1,6 +1,4 @@
 $(function() {
-
-alert(1);
   
     /*（C）
       【利用ルール】
@@ -14,30 +12,28 @@ alert(1);
      */
     // （C）（R）利用規約画面のURL
     const url = 'https://xn-mg4ab9c6as5dxb6an2h9dxgmdvcp0k.myshopify.com/policies/terms-of-service'; 
-
-alert(2);
   
     var message = '<a href="' + url + '" target="_blank">利用規約</a>に同意しアカウントを作成します'; 
 
-  alert(3);
+  alert(message);
     // （C）利用規約エリアを包括する要素
     var agreementArea = '<div class="agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
-alert(4);
+alert(agreementArea);
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
     const registerButton = $('#Form__Submit'); 
-alert(5);
+alert(registerButton);
     // （T）「アカウント作成」ボタン周辺エリアの前に利用規約エリアを配置
     registerButton.before(agreementArea);
-alert(6);
+
     //  「アカウント作成」ボタンの上マージンを取得
     const marginTopOfButton = registerButton.css('margin-top');
-alert(7);
+
     //  利用規約エリアのCSSに「アカウント作成」ボタンの上マージンを追加
     $('.agree-checkbox').css('margin-top', marginTopOfButton);
-alert(8);
+
     //  「アカウント作成」ボタン上のマージンを変更
     registerButton.css('margin-top', '1rem');
-alert(9);
+
     /*（C）
       【HTML読込後処理：「アカウント作成」ボタンの初期状態をdisabledに設定】　
      */
