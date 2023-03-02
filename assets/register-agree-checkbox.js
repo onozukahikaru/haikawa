@@ -16,7 +16,7 @@ $(function() {
     var message = '<a href="' + url + '" target="_blank">利用規約</a>に同意しアカウントを作成します'; 
 
     // （C）利用規約エリアを包括する要素
-    var agreementArea = '<div class="cart__agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
+    var agreementArea = '<div class="agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
 
     // （C）（T）（テーマ単位）「アカウント作成」ボタンのclassセレクタ
     const registerButton = $('#CustomerRegisterButton'); 
@@ -28,7 +28,7 @@ $(function() {
     const marginTopOfButton = registerButton.css('margin-top');
 
     //  利用規約エリアのCSSに「アカウント作成」ボタンの上マージンを追加
-    $('.cart__agree-checkbox').css('margin-top', marginTopOfButton);
+    $('.agree-checkbox').css('margin-top', marginTopOfButton);
 
     //  「アカウント作成」ボタン上のマージンを変更
     registerButton.css('margin-top', '1rem');
