@@ -43,6 +43,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2_1e291b74-507c-45bc-b864-38d722f46306.png",
+            "mobile_image": "shopify:\/\/shop_images\/8b5227cc027d607eb796f45d778888a8.png",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
