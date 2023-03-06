@@ -15,6 +15,14 @@ body{
   opacity: 0.8;
   cursor: pointer;
 }
+.Button--primary:hover,
+.Button--primary:hover::before,
+#section-template--14538005938247__slideshow .Button:hover,
+#section-template--14538005938247__slideshow .Button:hover::before{
+  opacity: 1;
+  background: #185d7c;
+  border-color: #185d7c;
+}
 
  /* セクション */
  .Heading{
