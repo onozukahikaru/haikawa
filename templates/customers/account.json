@@ -24,8 +24,8 @@
     "14ae4c4c-536d-48ab-a30c-31eab42a6984": {
       "type": "custom-liquid",
       "settings": {
-        "subheading": "Sub-heading",
-        "title": "Your Liquid",
+        "subheading": "",
+        "title": "",
         "liquid": "<p>\n免許証アップロードは<a link href = \"https:\/\/xn-mg4ab9c6as5dxb6an2h9dxgmdvcp0k.myshopify.com\/pages\/licenseupload\" style =\"text-decoration: underline;color:blue;\">こちら<\/a>から\n<\/p>"
       }
     }
