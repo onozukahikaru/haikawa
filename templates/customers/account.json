@@ -26,7 +26,7 @@
       "settings": {
         "subheading": "Sub-heading",
         "title": "Your Liquid",
-        "liquid": "<p>Write your own custom Liquid content.<\/p>\n免許証アップロードは<a link href = \"https:\/\/xn-mg4ab9c6as5dxb6an2h9dxgmdvcp0k.myshopify.com\/pages\/licenseupload\">こちら<\/a>から"
+        "liquid": "<p>\n免許証アップロードは<a link href = \"https:\/\/xn-mg4ab9c6as5dxb6an2h9dxgmdvcp0k.myshopify.com\/pages\/licenseupload\" style =\"text-decoration: underline;color:blue;\">こちら<\/a>から\n<\/p>"
       }
     }
   },
