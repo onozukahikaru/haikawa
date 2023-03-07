@@ -1,4 +1,5 @@
 {% comment %}ここから Joolen追記 チェックボックス入力時のみボタンクリック可能にする制御処理 {% endcomment %}
+{% assign terms_of_service = shop.terms_of_service.body  %}
 {{ 'component-register-agree-checkbox.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'register-agree-checkbox.js' | asset_url }}" defer></script>
 {% comment %}ここまで Joolen追記 チェックボックス入力時のみボタンクリック可能にする制御処理{% endcomment %}
@@ -62,6 +63,8 @@
 <!--         <div id="terms_area" class="none">
           <div class="register__terms-of-service">{{ shop.terms_of_service.body }}</div>
         </div> -->
+
+      
 
         <div class="Form__Item">
           <textarea name="terms_area" cols="20" rows="10" class="Form__Textarea" readonly>{{ shop.terms_of_service.body }}</textarea>
