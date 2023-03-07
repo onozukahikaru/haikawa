@@ -6,8 +6,7 @@ $(function() {
       ・（T）記載がある場合は、テーマごとにHTML要素やclass属性に違いがあります。適切なセレクタを指定してください。
     */
 
-
-    var str = {{ terms_of_service }}
+let str = {{ terms_of_service }}
 console.log(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
 
   /*（C）
