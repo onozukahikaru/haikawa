@@ -8,6 +8,7 @@ $(function() {
 
 let str = {{ terms_of_service }}
 console.log(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
+alert(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
 
   /*（C）
       【HTML読込後処理：利用規約エリアを配置】　
