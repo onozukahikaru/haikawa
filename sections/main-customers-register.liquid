@@ -59,8 +59,12 @@
         </div>
 
        {% comment %}ここから Joolen追記 利用規約テキストエリア表示追加 {% endcomment %}
-        <div id="terms_area" class="none">
+<!--         <div id="terms_area" class="none">
           <div class="register__terms-of-service">{{ shop.terms_of_service.body }}</div>
+        </div> -->
+
+        <div class="Form__Item">
+          <textarea name="terms_area" cols="20" rows="10" class="Form__Textarea" readonly>{{ shop.terms_of_service.body }}</textarea>
         </div>
        {% comment %}ここまで Joolen追記 利用規約テキストエリア表示追加 {% endcomment %}
         
