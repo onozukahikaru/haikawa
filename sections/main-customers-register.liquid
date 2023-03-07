@@ -57,7 +57,13 @@
           <input type="password" class="Form__Input" name="customer[password]" aria-label="{{ 'customer.register.password' | t }}" placeholder="{{ 'customer.register.password' | t }}" required="required">
           <label class="Form__FloatingLabel">{{ 'customer.register.password' | t }}</label>
         </div>
-      
+
+       {% comment %}ここから Joolen追記 利用規約テキストエリア表示追加 {% endcomment %}
+        <div id="terms_area" class="none">
+          <div class="register__terms-of-service">{{ shop.terms_of_service.body }}</div>
+        </div>
+       {% comment %}ここまで Joolen追記 利用規約テキストエリア表示追加 {% endcomment %}
+        
         <button type="submit" class="Form__Submit Button Button--primary Button--full CustomerRegisterButton">{{ 'customer.register.submit' | t }}</button>
       {%- endform -%}
     </div>
