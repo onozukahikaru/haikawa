@@ -6,7 +6,10 @@ $(function() {
       ・（T）記載がある場合は、テーマごとにHTML要素やclass属性に違いがあります。適切なセレクタを指定してください。
     */
 
-    /*（C）
+    var str = shop.terms_of_service.body;
+console.log(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
+
+  /*（C）
       【HTML読込後処理：利用規約エリアを配置】　
      */
     // （C）（R）利用規約画面のURL
