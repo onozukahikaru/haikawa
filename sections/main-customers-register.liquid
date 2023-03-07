@@ -1,7 +1,7 @@
 {% comment %}ここから Joolen追記 チェックボックス入力時のみボタンクリック可能にする制御処理 {% endcomment %}
-{% assign terms_of_service = shop.terms_of_service.body  %}
 {{ 'component-register-agree-checkbox.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'register-agree-checkbox.js' | asset_url }}" defer></script>
+{% assign terms_of_service = shop.terms_of_service.body  %}
 {% comment %}ここまで Joolen追記 チェックボックス入力時のみボタンクリック可能にする制御処理{% endcomment %}
 
 <section data-section-id="reset-password" data-section-type="reset-password">
