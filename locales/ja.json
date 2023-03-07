@@ -435,27 +435,9 @@
         "shipping_method_title": "商品の受取方法について　Shipping method title",
         "shipping_method_notice": "配送商品の場合、通常配送をご選択ください　Shipping method notice"
       },
-      "marketing": {
-        "sms": {
-          "disclaimer": {
-            "terms_of_service": "利用規約2"
-          }
-        }
-      },
       "shop_policies": {
         "terms_of_service": "レンタルバイク貸渡約款"
-      },
-      "remember_me": {
-        "terms_of_service": "利用規約4"
-      },
-      "mor_policies": {
-        "terms_and_conditions": "利用規約5"
       }
-    }
-  },
-  "customer_accounts": {
-    "shop_policies": {
-      "terms_of_service": "利用規約1"
     }
   }
 }
