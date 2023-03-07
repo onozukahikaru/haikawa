@@ -7,7 +7,7 @@ $(function() {
     */
 
 
-    var str = {{ terms_of_service }};
+    var str = {{ terms_of_service }}
 console.log(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
 
   /*（C）
