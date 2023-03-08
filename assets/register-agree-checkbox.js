@@ -6,10 +6,6 @@ $(function() {
       ・（T）記載がある場合は、テーマごとにHTML要素やclass属性に違いがあります。適切なセレクタを指定してください。
     */
 
-let str = { terms_of_service };
-console.log(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
-alert(str.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g,''));
-
   /*（C）
       【HTML読込後処理：利用規約エリアを配置】　
      */
