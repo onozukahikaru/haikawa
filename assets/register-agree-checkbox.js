@@ -9,10 +9,8 @@ $(function() {
   /*（C）
       【HTML読込後処理：利用規約エリアを配置】　
      */
-    // （C）（R）利用規約画面のURL
-    const url = 'https://xn-mg4ab9c6as5dxb6an2h9dxgmdvcp0k.myshopify.com/policies/terms-of-service'; 
-  
-    var message = '<a href="' + url + '" target="_blank">利用規約</a>に同意しアカウントを作成します'; 
+    // （C）（R）利用規約画面のURL  
+    var message = '利用規約に同意しアカウントを作成します'; 
 
     // （C）利用規約エリアを包括する要素
     var agreementArea = '<div class="agree-checkbox"><input type="checkbox" id="check">' + '<label for="check">' + message + '</label></div>';
