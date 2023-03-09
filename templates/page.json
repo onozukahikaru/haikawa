@@ -20,55 +20,20 @@
         "content": "<p>当店では、人気の電動2輪・3輪を取り扱っています。<\/p><p>街でのチョイ乗りや、旅行先で風を感じながら走ったり<\/p><p>さまざまな用途でお使いいただけます！<\/p>"
       }
     },
+    "582be83d-efd4-49bc-984e-e4c48207d705": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "179.800（税抜）",
+        "title": "BLAZE　SMART　EV",
+        "image": "shopify:\/\/shop_images\/9_000000000001.png",
+        "image_position": "left",
+        "content": "<p>折り畳み可能な電動バイク。<br\/>折り畳むことで車などにもカンタンに収納でき、持ち運びもラクラク！<br\/>自転車よりも楽にバイクよりも手軽に使用できます。<br\/>大容量リチウムイオンバッテリーを搭載しているため、<br\/>坂道もスムーズに登ります。家庭用のコンセントから1回の充電で約30km<br\/>の走行ができるのでちょっとしたおでかけにも！<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6": {
       "type": "collection-list",
-      "blocks": {
-        "template--14538005643335__ed4f57b7-7eb1-44c5-a603-948edddedcc6-16783374460cbd9c05-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/IMG_4592.jpg",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "BLAZE　SMART　EV",
-            "title": "179.800（税抜き）",
-            "button_text": "商品詳細",
-            "button_link": "shopify:\/\/collections\/販売商品",
-            "apply_overlay": true
-          }
-        },
-        "template--14538005643335__ed4f57b7-7eb1-44c5-a603-948edddedcc6-16783374460cbd9c05-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        },
-        "template--14538005643335__ed4f57b7-7eb1-44c5-a603-948edddedcc6-16783374460cbd9c05-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14538005643335__ed4f57b7-7eb1-44c5-a603-948edddedcc6-16783374460cbd9c05-0",
-        "template--14538005643335__ed4f57b7-7eb1-44c5-a603-948edddedcc6-16783374460cbd9c05-1",
-        "template--14538005643335__ed4f57b7-7eb1-44c5-a603-948edddedcc6-16783374460cbd9c05-2"
-      ],
       "settings": {
         "image_size": "normal",
         "add_spacing": true,
@@ -82,6 +47,7 @@
   "order": [
     "main",
     "235acd00-a446-45dd-8d2f-dc51c4a3bb64",
+    "582be83d-efd4-49bc-984e-e4c48207d705",
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6"
   ]
 }
