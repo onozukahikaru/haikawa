@@ -32,6 +32,18 @@
         "link_url": ""
       }
     },
+    "64175e48-222e-47e4-ad38-d621f658dfb1": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "248.000（税抜）",
+        "title": "BLAZE　EV　TRIKE",
+        "image": "shopify:\/\/shop_images\/2_000000000093.png",
+        "image_position": "right",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6": {
       "type": "collection-list",
       "settings": {
@@ -48,6 +60,7 @@
     "main",
     "235acd00-a446-45dd-8d2f-dc51c4a3bb64",
     "582be83d-efd4-49bc-984e-e4c48207d705",
+    "64175e48-222e-47e4-ad38-d621f658dfb1",
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6"
   ]
 }
