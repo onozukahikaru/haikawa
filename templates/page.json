@@ -11,12 +11,12 @@
       "type": "image-with-text-overlay",
       "settings": {
         "section_size": "large",
-        "image": "shopify:\/\/shop_images\/6adb25256ea2e794bfc6ecfb622cb85e_d646fc58-e86a-4321-9c8c-1e6f225f61e3.png",
+        "image": "shopify:\/\/shop_images\/7f58d77ef44d6e463a3390f38b778de5.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30,
+        "overlay_opacity": 46,
         "subheading": "",
-        "title": "販売商品",
+        "title": "販売商品一覧",
         "content": "<p>当店では、人気の電動2輪・3輪を取り扱っています。<\/p><p>街でのチョイ乗りや、旅行先で風を感じながら走ったり<\/p><p>さまざまな用途でお使いいただけます！<\/p>"
       }
     },
