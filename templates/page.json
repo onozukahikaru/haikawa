@@ -39,7 +39,19 @@
         "title": "BLAZE　EV　TRIKE",
         "image": "shopify:\/\/shop_images\/2_000000000093.png",
         "image_position": "right",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "content": "<p>購入ハードルの高かった三輪バイクをブレイズがコンパクト化。<\/p><p>街乗りに、ちょっとした買い物に、気分転換に。<\/p><p>どこへでも、気軽に身軽に乗れるバイク。<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "149.800（税抜）",
+        "title": "BLAZE　EV　SCOOTER",
+        "image": "shopify:\/\/shop_images\/c6d820f92fa010d0c555d4e0c2f0d970.png",
+        "image_position": "left",
+        "content": "<p>折りたたみ工具は一切不要！<\/p><p>座席を倒し、ハンドルを折りたためばコンパクトに格納。車体下部にはローラーを備え、持ち運びも楽々<\/p><p>車に積み込み、今までにない新しい生活を提案します。<\/p>",
         "link_text": "",
         "link_url": ""
       }
@@ -61,6 +73,7 @@
     "235acd00-a446-45dd-8d2f-dc51c4a3bb64",
     "582be83d-efd4-49bc-984e-e4c48207d705",
     "64175e48-222e-47e4-ad38-d621f658dfb1",
+    "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf",
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6"
   ]
 }
