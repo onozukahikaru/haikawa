@@ -2,18 +2,6 @@
   "sections": {
     "main": {
       "type": "main-contact",
-      "blocks": {
-        "680b9066-8ffd-41c2-8a7f-217a50386824": {
-          "type": "dropdown",
-          "settings": {
-            "title": "Custom field",
-            "values": "配送, 店頭, その他"
-          }
-        }
-      },
-      "block_order": [
-        "680b9066-8ffd-41c2-8a7f-217a50386824"
-      ],
       "settings": {
       }
     }

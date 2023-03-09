@@ -2,6 +2,27 @@
   "sections": {
     "main": {
       "type": "main-contact",
+      "blocks": {
+        "9fe167c6-18c8-453c-952a-baa80f7578f9": {
+          "type": "text",
+          "settings": {
+            "title": "Custom field",
+            "use_long_text": false,
+            "is_required": false
+          }
+        },
+        "76cd66f8-8b1b-45ed-b341-ae801f8ae372": {
+          "type": "dropdown",
+          "settings": {
+            "title": "お問い合わせ内容をお選びください",
+            "values": "配送商品について, 店頭受取商品について, その他"
+          }
+        }
+      },
+      "block_order": [
+        "9fe167c6-18c8-453c-952a-baa80f7578f9",
+        "76cd66f8-8b1b-45ed-b341-ae801f8ae372"
+      ],
       "settings": {
       }
     }
