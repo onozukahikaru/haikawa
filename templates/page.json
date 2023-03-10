@@ -25,7 +25,7 @@
       "settings": {
         "subheading": "179.800（税抜）",
         "title": "BLAZE　SMART　EV",
-        "image": "shopify:\/\/shop_images\/9_000000000001.png",
+        "image": "shopify:\/\/shop_images\/khaki-1.png",
         "image_position": "left",
         "content": "<p>折り畳み可能な電動バイク。<br\/>折り畳むことで車などにもカンタンに収納でき、持ち運びもラクラク！<br\/>自転車よりも楽にバイクよりも手軽に使用できます。<br\/>大容量リチウムイオンバッテリーを搭載しているため、<br\/>坂道もスムーズに登ります。家庭用のコンセントから1回の充電で約30km<br\/>の走行ができるのでちょっとしたおでかけにも！<\/p>",
         "link_text": "",
@@ -66,6 +66,18 @@
         "text_color": "#ffffff",
         "button_color": "#363636"
       }
+    },
+    "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "588,000(税抜)",
+        "title": "NEXT CRUISER EV",
+        "image": "shopify:\/\/shop_images\/a0397b6511535449ddb2f8c8e1c01f0d.png",
+        "image_position": "right",
+        "content": "<p>ネクストクルーザーEVは100％電気で走るエコで環境にやさしい次世代電動ミニカー。<\/p><p>原付ミニカー登録の為車検は不要！低コストに楽しめる大人のミニカーです。公道走行も可能で普段の通勤や買い物だけでなくイベントやキャンプ、ちょっとしたお出かけにも活用できます。<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -74,6 +86,7 @@
     "582be83d-efd4-49bc-984e-e4c48207d705",
     "64175e48-222e-47e4-ad38-d621f658dfb1",
     "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf",
-    "ed4f57b7-7eb1-44c5-a603-948edddedcc6"
+    "ed4f57b7-7eb1-44c5-a603-948edddedcc6",
+    "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8"
   ]
 }
