@@ -58,24 +58,6 @@
     },
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6": {
       "type": "collection-list",
-      "blocks": {
-        "59a43296-c154-440d-82d1-a2b0d6597653": {
-          "type": "collection",
-          "settings": {
-            "collection": "店頭受取-ev-scooter",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        }
-      },
-      "block_order": [
-        "59a43296-c154-440d-82d1-a2b0d6597653"
-      ],
       "settings": {
         "image_size": "normal",
         "add_spacing": true,
