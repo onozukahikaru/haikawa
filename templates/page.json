@@ -44,6 +44,18 @@
         "link_url": ""
       }
     },
+    "ee8ef6ce-b32c-46ce-86f7-6eaa9c1c5ab2": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "898,000（税抜）",
+        "title": "EV CLASSIC",
+        "image": "shopify:\/\/shop_images\/img_classic_01.png",
+        "image_position": "right",
+        "content": "<p>原付ミニカー登録のため、車検が不要。<br\/>100Vの家庭用コンセントからの充電が可能で、ガソリン代も掛かりません。<br\/>EVクラシックでは、セカンドカー・サードカーに重要なランニングコストが抑えられます。<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
     "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf": {
       "type": "text-with-image",
       "settings": {
@@ -85,6 +97,7 @@
     "0bf7d3a1-1182-4672-a9e0-15e6b64b1871",
     "582be83d-efd4-49bc-984e-e4c48207d705",
     "64175e48-222e-47e4-ad38-d621f658dfb1",
+    "ee8ef6ce-b32c-46ce-86f7-6eaa9c1c5ab2",
     "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf",
     "ed4f57b7-7eb1-44c5-a603-948edddedcc6",
     "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8"
