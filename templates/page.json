@@ -68,17 +68,6 @@
         "link_url": ""
       }
     },
-    "ed4f57b7-7eb1-44c5-a603-948edddedcc6": {
-      "type": "collection-list",
-      "settings": {
-        "image_size": "normal",
-        "add_spacing": true,
-        "expand_collection": false,
-        "stack_on_mobile": true,
-        "text_color": "#ffffff",
-        "button_color": "#363636"
-      }
-    },
     "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8": {
       "type": "text-with-image",
       "settings": {
@@ -99,7 +88,6 @@
     "64175e48-222e-47e4-ad38-d621f658dfb1",
     "ee8ef6ce-b32c-46ce-86f7-6eaa9c1c5ab2",
     "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf",
-    "ed4f57b7-7eb1-44c5-a603-948edddedcc6",
     "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8"
   ]
 }
