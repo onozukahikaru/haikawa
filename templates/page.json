@@ -7,81 +7,17 @@
         "show_large": false
       }
     },
-    "60c83abd-9c84-4475-a307-2386a4ca3beb": {
-      "type": "slideshow",
-      "blocks": {
-        "template--14538005643335__60c83abd-9c84-4475-a307-2386a4ca3beb-1678409578879a989a-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7f58d77ef44d6e463a3390f38b778de5.jpg",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "店頭販売商品",
-            "title": "当店では、人気のEVバイク2輪・3輪を取り扱っています",
-            "button_1_text": "お問合せ",
-            "button_1_link": "shopify:\/\/pages\/contact",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "template--14538005643335__60c83abd-9c84-4475-a307-2386a4ca3beb-1678409578879a989a-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SMART_EV_701f6fcf-3ada-4df8-959b-e121702e3275.jpg",
-            "apply_overlay": true,
-            "content_position": "middleCenter",
-            "subheading": "店頭商品一覧",
-            "title": "街でのチョイ乗りに最適",
-            "button_1_text": "お問合せ",
-            "button_1_link": "{{ page.url }}",
-            "button_2_text": "",
-            "button_2_link": "shopify:\/\/pages\/contact"
-          }
-        },
-        "fa0dae61-767c-4092-b49c-9f5db386d8bc": {
-          "type": "image",
-          "settings": {
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "Slide title",
-            "title": "Tell your story",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
-        "ceb1e949-5812-4617-9664-3f43a825869c": {
-          "type": "image",
-          "settings": {
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "Slide title",
-            "title": "Tell your story",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14538005643335__60c83abd-9c84-4475-a307-2386a4ca3beb-1678409578879a989a-0",
-        "template--14538005643335__60c83abd-9c84-4475-a307-2386a4ca3beb-1678409578879a989a-1",
-        "fa0dae61-767c-4092-b49c-9f5db386d8bc",
-        "ceb1e949-5812-4617-9664-3f43a825869c"
-      ],
-      "custom_css": [
-
-      ],
+    "0bf7d3a1-1182-4672-a9e0-15e6b64b1871": {
+      "type": "image-with-text-overlay",
       "settings": {
-        "show_fullscreen": false,
-        "show_arrow": false,
-        "autoplay": true,
-        "cycle_speed": 5,
+        "section_size": "small",
+        "image": "shopify:\/\/shop_images\/7f58d77ef44d6e463a3390f38b778de5.jpg",
         "text_color": "#ffffff",
-        "button_color": "#363636",
-        "button_background": "#ffffff"
+        "overlay_color": "#000000",
+        "overlay_opacity": 14,
+        "subheading": "",
+        "title": "店頭販売商品",
+        "content": "<p><strong>当店では、人気の電動2輪・3輪を取り扱っています。街でのチョイ乗りや、旅行先で風を感じながら走ったりさまざまな用途でお使いいただけます！<\/strong><\/p>"
       }
     },
     "582be83d-efd4-49bc-984e-e4c48207d705": {
@@ -134,7 +70,7 @@
   },
   "order": [
     "main",
-    "60c83abd-9c84-4475-a307-2386a4ca3beb",
+    "0bf7d3a1-1182-4672-a9e0-15e6b64b1871",
     "582be83d-efd4-49bc-984e-e4c48207d705",
     "64175e48-222e-47e4-ad38-d621f658dfb1",
     "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf",
