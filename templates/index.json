@@ -145,7 +145,7 @@
     "4508aa62-d59f-4ab8-b11a-b997969d9554": {
       "type": "text-with-image",
       "custom_css": [
-        ".FeatureText__ContentWrapper {background: #96bdcb;}",
+        ".FeatureText__ContentWrapper {background: #FFFFFF;}",
         ".Heading {color: white;}"
       ],
       "settings": {
