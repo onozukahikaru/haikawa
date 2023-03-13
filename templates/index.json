@@ -158,6 +158,20 @@
         "link_url": "shopify:\/\/pages\/contact"
       }
     },
+    "dbc532e4-a286-43fc-b869-e448b3597465": {
+      "type": "image-with-text-block",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2023-02-10_14.07.21.png",
+        "background": "#f5c602",
+        "text_color": "#000000",
+        "block_size": "small",
+        "title": "販売商品アピール",
+        "content": "<p>公道を走れる2輪・3輪タイプの商品を取り扱っています<\/p>",
+        "button_label": "詳しくはこちら",
+        "button_link": "shopify:\/\/pages\/販売商品アピール",
+        "show_parallax": true
+      }
+    },
     "fcaf1b23-2745-4644-b77f-276890c94ee4": {
       "type": "recently-viewed-products",
       "settings": {
@@ -190,20 +204,6 @@
         "show_category": false,
         "button_link": "shopify:\/\/blogs\/ニュース",
         "button_text": "ニュース一覧"
-      }
-    },
-    "dbc532e4-a286-43fc-b869-e448b3597465": {
-      "type": "image-with-text-block",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2023-02-10_14.07.21.png",
-        "background": "#f5c602",
-        "text_color": "#000000",
-        "block_size": "small",
-        "title": "販売商品アピール",
-        "content": "<p>公道を走れる2輪・3輪タイプの商品を取り扱っています<\/p>",
-        "button_label": "詳しくはこちら",
-        "button_link": "shopify:\/\/pages\/販売商品アピール",
-        "show_parallax": true
       }
     },
     "1675153110ed841f58": {
@@ -255,9 +255,9 @@
     "f43bde7c-8b88-43d8-acab-55ef1becc018",
     "e2b25fca-a097-40f3-a32c-88f029fadee8",
     "4508aa62-d59f-4ab8-b11a-b997969d9554",
+    "dbc532e4-a286-43fc-b869-e448b3597465",
     "fcaf1b23-2745-4644-b77f-276890c94ee4",
     "f856b367-6c04-4583-8b07-816a471dbaad",
-    "dbc532e4-a286-43fc-b869-e448b3597465",
     "1675153110ed841f58",
     "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35",
     "2df6b2c8-6ad6-47bb-9f08-958e6dda9dfc"
