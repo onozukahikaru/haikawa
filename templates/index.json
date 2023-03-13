@@ -142,16 +142,20 @@
         "link_url": ""
       }
     },
-    "7b3b5487-ffdc-4248-9116-f7a16e6dcd68": {
-      "type": "image-with-text-overlay",
+    "4508aa62-d59f-4ab8-b11a-b997969d9554": {
+      "type": "text-with-image",
+      "custom_css": [
+        ".FeatureText__ContentWrapper {background: #96bdcb;}",
+        ".Heading {color: white;}"
+      ],
       "settings": {
-        "section_size": "large",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30,
-        "subheading": "",
-        "title": "Tell your story",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+        "subheading": "法人向けお問い合わせ導線",
+        "title": "ご利用をご検討中の法人のお客様へ",
+        "image": "shopify:\/\/shop_images\/11492-1024x768.jpg",
+        "image_position": "right",
+        "content": "<p>お問い合わせ または 0569-84-0082（代表）より直接お問い合わせください。<\/p><p>※当サイトでは一般消費者向け商品の販売・レンタルを行なっております。<\/p>",
+        "link_text": "お問い合わせはこちら",
+        "link_url": "shopify:\/\/pages\/contact"
       }
     },
     "fcaf1b23-2745-4644-b77f-276890c94ee4": {
@@ -202,22 +206,6 @@
         "show_parallax": true
       }
     },
-    "4508aa62-d59f-4ab8-b11a-b997969d9554": {
-      "type": "text-with-image",
-      "custom_css": [
-        ".FeatureText__ContentWrapper {background: #96bdcb;}",
-        ".Heading {color: white;}"
-      ],
-      "settings": {
-        "subheading": "法人向けお問い合わせ導線",
-        "title": "ご利用をご検討中の法人のお客様へ",
-        "image": "shopify:\/\/shop_images\/11492-1024x768.jpg",
-        "image_position": "right",
-        "content": "<p>お問い合わせ または 0569-84-0082（代表）より直接お問い合わせください。<\/p><p>※当サイトでは一般消費者向け商品の販売・レンタルを行なっております。<\/p>",
-        "link_text": "お問い合わせはこちら",
-        "link_url": "shopify:\/\/pages\/contact"
-      }
-    },
     "1675153110ed841f58": {
       "type": "apps",
       "blocks": {
@@ -266,11 +254,10 @@
     "945253c6-9806-46f2-9126-5e205da08ae3",
     "f43bde7c-8b88-43d8-acab-55ef1becc018",
     "e2b25fca-a097-40f3-a32c-88f029fadee8",
-    "7b3b5487-ffdc-4248-9116-f7a16e6dcd68",
+    "4508aa62-d59f-4ab8-b11a-b997969d9554",
     "fcaf1b23-2745-4644-b77f-276890c94ee4",
     "f856b367-6c04-4583-8b07-816a471dbaad",
     "dbc532e4-a286-43fc-b869-e448b3597465",
-    "4508aa62-d59f-4ab8-b11a-b997969d9554",
     "1675153110ed841f58",
     "f81ae331-f8b0-42bb-a0b1-eb42c16cdd35",
     "2df6b2c8-6ad6-47bb-9f08-958e6dda9dfc"
