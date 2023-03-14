@@ -81,6 +81,41 @@
         "show_color_swatch": false
       }
     },
+    "c19618e3-b044-42c3-9efd-c186f143b705": {
+      "type": "testimonials",
+      "blocks": {
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/5_6dd8631e-d29f-4c9e-b705-bb317f9f7e2d.jpg",
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        },
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        },
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-2": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-0",
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-1",
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-2"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaeaea",
+        "text_color": "#1c1b1b"
+      }
+    },
     "148864c2-12a6-4144-84da-463ce3e227e9": {
       "type": "slideshow",
       "blocks": {
@@ -181,6 +216,7 @@
     "main",
     "product-recommendations",
     "recently-viewed-products",
+    "c19618e3-b044-42c3-9efd-c186f143b705",
     "148864c2-12a6-4144-84da-463ce3e227e9",
     "15ae60d2-fb6c-4fc5-9fee-4b09018dde1a",
     "331612a9-ad7c-4145-a7ce-da5e7ee176c8",
