@@ -140,7 +140,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/SMARTEV_83a74b61-e492-4d07-a57e-9381b0ce7499.png",
-            "apply_overlay": true,
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "確かな安全性能・便利なアクセサリー",
