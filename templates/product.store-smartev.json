@@ -104,12 +104,20 @@
             "logo": "shopify:\/\/shop_images\/02ef26c95d91ae731e9b00a6ed9c42a8_1784e566-ff2f-4dcc-85f7-9a644034dfad.jpg",
             "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
           }
+        },
+        "73162f91-5b42-4285-b392-97a0cfa23f35": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/80a9a77919633d9c2c620df9ff19454e_0724306e-f4d2-4171-bb68-49bcd3a52b40.png",
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
         }
       },
       "block_order": [
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-0",
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-1",
-        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-2"
+        "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-2",
+        "73162f91-5b42-4285-b392-97a0cfa23f35"
       ],
       "settings": {
         "autoplay": true,
