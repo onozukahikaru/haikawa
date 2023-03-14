@@ -161,24 +161,10 @@
             "button_2_text": "",
             "button_2_link": ""
           }
-        },
-        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-1": {
-          "type": "image",
-          "settings": {
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "Slide title",
-            "title": "Tell your story",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
         }
       },
       "block_order": [
-        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-0",
-        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-1"
+        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-0"
       ],
       "settings": {
         "show_fullscreen": false,
