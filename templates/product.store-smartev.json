@@ -261,17 +261,17 @@
         "show_parallax": false
       }
     },
-    "e529efb2-e341-44cf-a3f1-1e92589d5db7": {
-      "type": "image-with-text-block",
+    "501c4fbe-72ce-4c24-bdd8-87aea04b0382": {
+      "type": "image-with-text-overlay",
       "settings": {
-        "background": "#ffffff",
-        "text_color": "#1c1b1b",
-        "block_size": "small",
-        "title": "Your story",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "show_parallax": true
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/SMARTEV_83a74b61-e492-4d07-a57e-9381b0ce7499.png",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     }
   },
@@ -287,6 +287,6 @@
     "1678775276c0a72f57",
     "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555",
     "d7835861-9fba-440a-a74f-b1dfbe92bb42",
-    "e529efb2-e341-44cf-a3f1-1e92589d5db7"
+    "501c4fbe-72ce-4c24-bdd8-87aea04b0382"
   ]
 }
