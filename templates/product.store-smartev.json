@@ -126,6 +126,13 @@
         "text_color": "#1c1b1b"
       }
     },
+    "331612a9-ad7c-4145-a7ce-da5e7ee176c8": {
+      "type": "background-video",
+      "settings": {
+        "section_size": "preserveRatio",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=o1Tvw6ZykZg"
+      }
+    },
     "148864c2-12a6-4144-84da-463ce3e227e9": {
       "type": "slideshow",
       "blocks": {
@@ -146,6 +153,37 @@
       },
       "block_order": [
         "template--14538639605831__148864c2-12a6-4144-84da-463ce3e227e9-1678775513a67a3a3c-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "064732ab-1591-4743-9f81-58d7b8fc4d66": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SMARTEV.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-0"
       ],
       "settings": {
         "show_fullscreen": false,
@@ -181,44 +219,6 @@
         "show_color_swatch": false,
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4
-      }
-    },
-    "331612a9-ad7c-4145-a7ce-da5e7ee176c8": {
-      "type": "background-video",
-      "settings": {
-        "section_size": "preserveRatio",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=o1Tvw6ZykZg"
-      }
-    },
-    "064732ab-1591-4743-9f81-58d7b8fc4d66": {
-      "type": "slideshow",
-      "blocks": {
-        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SMARTEV.png",
-            "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "SPEC",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14538639605831__064732ab-1591-4743-9f81-58d7b8fc4d66-1678775513a67a3a3c-0"
-      ],
-      "settings": {
-        "show_fullscreen": false,
-        "show_arrow": false,
-        "autoplay": true,
-        "cycle_speed": 5,
-        "text_color": "#ffffff",
-        "button_color": "#363636",
-        "button_background": "#ffffff"
       }
     },
     "1678775276c0a72f57": {
@@ -279,10 +279,10 @@
     "product-recommendations",
     "recently-viewed-products",
     "c19618e3-b044-42c3-9efd-c186f143b705",
-    "148864c2-12a6-4144-84da-463ce3e227e9",
-    "15ae60d2-fb6c-4fc5-9fee-4b09018dde1a",
     "331612a9-ad7c-4145-a7ce-da5e7ee176c8",
+    "148864c2-12a6-4144-84da-463ce3e227e9",
     "064732ab-1591-4743-9f81-58d7b8fc4d66",
+    "15ae60d2-fb6c-4fc5-9fee-4b09018dde1a",
     "1678775276c0a72f57",
     "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555",
     "d7835861-9fba-440a-a74f-b1dfbe92bb42",
