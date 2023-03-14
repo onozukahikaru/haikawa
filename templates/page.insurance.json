@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_large": false
+      }
+    },
+    "0bf7d3a1-1182-4672-a9e0-15e6b64b1871": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "small",
+        "image": "shopify:\/\/shop_images\/7f58d77ef44d6e463a3390f38b778de5.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 14,
+        "subheading": "",
+        "title": "店頭販売商品",
+        "content": "<p><strong>当店では、人気の電動2輪・3輪を取り扱っています。街でのチョイ乗りや、旅行先で風を感じながら走ったりさまざまな用途でお使いいただけます！<\/strong><\/p>"
+      }
+    },
+    "582be83d-efd4-49bc-984e-e4c48207d705": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "BLAZE　SMART　EV",
+        "title": "179.800（税抜）",
+        "image": "shopify:\/\/shop_images\/180611_BLAZE-016_2.jpg",
+        "image_position": "left",
+        "content": "<p>折り畳み可能な電動バイク。<br\/>折り畳むことで車などにもカンタンに収納でき、持ち運びもラクラク！<br\/>自転車よりも楽にバイクよりも手軽に使用できます。<br\/>大容量リチウムイオンバッテリーを搭載しているため、<br\/>坂道もスムーズに登ります。家庭用のコンセントから1回の充電で約30km<br\/>の走行ができるのでちょっとしたおでかけにも！<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "64175e48-222e-47e4-ad38-d621f658dfb1": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "BLAZE　EV　TRIKE",
+        "title": "248.000（税抜）",
+        "image": "shopify:\/\/shop_images\/d46750-117-260850-1.jpg",
+        "image_position": "right",
+        "content": "<p>購入ハードルの高かった三輪バイクをブレイズがコンパクト化。<\/p><p>街乗りに、ちょっとした買い物に、気分転換に。<\/p><p>どこへでも、気軽に身軽に乗れるバイク。<\/p>",
+        "link_text": "商品詳細",
+        "link_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0548\/9528\/0199\/files\/CCF_000207_rotated.pdf?v=1678426576"
+      }
+    },
+    "ee8ef6ce-b32c-46ce-86f7-6eaa9c1c5ab2": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "EV CLASSIC",
+        "title": "898,000（税抜）",
+        "image": "shopify:\/\/shop_images\/feature_p01.jpg",
+        "image_position": "left",
+        "content": "<p>原付ミニカー登録のため、車検が不要。<br\/>100Vの家庭用コンセントからの充電が可能で、ガソリン代も掛かりません。<br\/>EVクラシックでは、セカンドカー・サードカーに重要なランニングコストが抑えられます。<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "BLAZE　EV　SCOOTER",
+        "title": "149.800（税抜）",
+        "image": "shopify:\/\/shop_images\/81062bb198c7820fcf9590a977d956db.jpg",
+        "image_position": "right",
+        "content": "<p>折りたたみ工具は一切不要！<\/p><p>座席を倒し、ハンドルを折りたためばコンパクトに格納。車体下部にはローラーを備え、持ち運びも楽々<\/p><p>車に積み込み、今までにない新しい生活を提案します。<\/p>",
+        "link_text": "商品詳細",
+        "link_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0548\/9528\/0199\/files\/EV_SCOOTER.pdf?v=1678425493iles\/1\/0548\/9528\/0199\/files\/EV_SCOOTER.pdf?v=1678425493"
+      }
+    },
+    "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "NEXT CRUISER EV",
+        "title": "588,000(税抜)",
+        "image": "shopify:\/\/shop_images\/a0397b6511535449ddb2f8c8e1c01f0d.png",
+        "image_position": "left",
+        "content": "<p>ネクストクルーザーEVは100％電気で走るエコで環境にやさしい次世代電動ミニカー。<\/p><p>原付ミニカー登録の為車検は不要！低コストに楽しめる大人のミニカーです。公道走行も可能で普段の通勤や買い物だけでなくイベントやキャンプ、ちょっとしたお出かけにも活用できます。<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0bf7d3a1-1182-4672-a9e0-15e6b64b1871",
+    "582be83d-efd4-49bc-984e-e4c48207d705",
+    "64175e48-222e-47e4-ad38-d621f658dfb1",
+    "ee8ef6ce-b32c-46ce-86f7-6eaa9c1c5ab2",
+    "7db29ac4-d7cc-43f8-ab3f-a7a9623ebdcf",
+    "670dd3c5-5382-4b07-b67a-5b9d5e55a0e8"
+  ]
+}
