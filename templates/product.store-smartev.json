@@ -250,14 +250,15 @@
     "d7835861-9fba-440a-a74f-b1dfbe92bb42": {
       "type": "image-with-text-block",
       "settings": {
+        "image": "shopify:\/\/shop_images\/SMARTEV_83a74b61-e492-4d07-a57e-9381b0ce7499.png",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
         "block_size": "small",
-        "title": "Your story",
-        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "title": "",
+        "content": "",
         "button_label": "",
         "button_link": "",
-        "show_parallax": true
+        "show_parallax": false
       }
     },
     "e529efb2-e341-44cf-a3f1-1e92589d5db7": {
