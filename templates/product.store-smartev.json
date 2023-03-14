@@ -171,7 +171,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/SMARTEV.png",
-            "apply_overlay": true,
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
