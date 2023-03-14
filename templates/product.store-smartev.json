@@ -111,13 +111,21 @@
             "logo": "shopify:\/\/shop_images\/80a9a77919633d9c2c620df9ff19454e_0724306e-f4d2-4171-bb68-49bcd3a52b40.png",
             "quote": "<p><strong>パワフル<\/strong><\/p><p>軽さを生かした登坂能力で、坂道もスイスイ進みます。<\/p>"
           }
+        },
+        "a7f9e421-07f7-48e4-92a4-97c6be7899bd": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/340x80.png",
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
         }
       },
       "block_order": [
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-0",
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-1",
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-2",
-        "73162f91-5b42-4285-b392-97a0cfa23f35"
+        "73162f91-5b42-4285-b392-97a0cfa23f35",
+        "a7f9e421-07f7-48e4-92a4-97c6be7899bd"
       ],
       "settings": {
         "autoplay": true,
