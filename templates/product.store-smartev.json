@@ -114,6 +114,7 @@
         },
         "a7f9e421-07f7-48e4-92a4-97c6be7899bd": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "logo": "shopify:\/\/shop_images\/340x80.png",
             "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
@@ -151,7 +152,7 @@
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "確かな安全性能・便利なアクセサリー",
+            "title": "",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
