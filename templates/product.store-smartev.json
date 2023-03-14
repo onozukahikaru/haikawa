@@ -249,6 +249,7 @@
     },
     "d7835861-9fba-440a-a74f-b1dfbe92bb42": {
       "type": "image-with-text-block",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/SMARTEV_83a74b61-e492-4d07-a57e-9381b0ce7499.png",
         "background": "#ffffff",
@@ -263,6 +264,7 @@
     },
     "501c4fbe-72ce-4c24-bdd8-87aea04b0382": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "section_size": "large",
         "image": "shopify:\/\/shop_images\/SMARTEV_83a74b61-e492-4d07-a57e-9381b0ce7499.png",
