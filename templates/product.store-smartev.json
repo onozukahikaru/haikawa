@@ -109,7 +109,7 @@
           "type": "testimonial",
           "settings": {
             "logo": "shopify:\/\/shop_images\/80a9a77919633d9c2c620df9ff19454e_0724306e-f4d2-4171-bb68-49bcd3a52b40.png",
-            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+            "quote": "<p><strong>パワフル<\/strong><\/p><p>軽さを生かした登坂能力で、坂道もスイスイ進みます。<\/p>"
           }
         }
       },
@@ -259,6 +259,19 @@
         "button_link": "",
         "show_parallax": true
       }
+    },
+    "e529efb2-e341-44cf-a3f1-1e92589d5db7": {
+      "type": "image-with-text-block",
+      "settings": {
+        "background": "#ffffff",
+        "text_color": "#1c1b1b",
+        "block_size": "small",
+        "title": "Your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "show_parallax": true
+      }
     }
   },
   "order": [
@@ -272,6 +285,7 @@
     "064732ab-1591-4743-9f81-58d7b8fc4d66",
     "1678775276c0a72f57",
     "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555",
-    "d7835861-9fba-440a-a74f-b1dfbe92bb42"
+    "d7835861-9fba-440a-a74f-b1dfbe92bb42",
+    "e529efb2-e341-44cf-a3f1-1e92589d5db7"
   ]
 }
