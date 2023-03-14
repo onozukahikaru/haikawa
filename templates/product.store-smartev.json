@@ -102,7 +102,7 @@
           "type": "testimonial",
           "settings": {
             "logo": "shopify:\/\/shop_images\/02ef26c95d91ae731e9b00a6ed9c42a8_1784e566-ff2f-4dcc-85f7-9a644034dfad.jpg",
-            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+            "quote": "<p><strong>いつでも、どこでも充電<\/strong><\/p><p>取り外しできるバッテリーで、どこでも充電可能です。<\/p>"
           }
         },
         "73162f91-5b42-4285-b392-97a0cfa23f35": {
@@ -246,6 +246,19 @@
         "map_link_label": "マップを見る",
         "link_url": ""
       }
+    },
+    "d7835861-9fba-440a-a74f-b1dfbe92bb42": {
+      "type": "image-with-text-block",
+      "settings": {
+        "background": "#ffffff",
+        "text_color": "#1c1b1b",
+        "block_size": "small",
+        "title": "Your story",
+        "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "show_parallax": true
+      }
     }
   },
   "order": [
@@ -258,6 +271,7 @@
     "331612a9-ad7c-4145-a7ce-da5e7ee176c8",
     "064732ab-1591-4743-9f81-58d7b8fc4d66",
     "1678775276c0a72f57",
-    "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555"
+    "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555",
+    "d7835861-9fba-440a-a74f-b1dfbe92bb42"
   ]
 }
