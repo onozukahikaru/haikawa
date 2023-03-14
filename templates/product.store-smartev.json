@@ -95,7 +95,7 @@
           "type": "testimonial",
           "settings": {
             "logo": "shopify:\/\/shop_images\/2_f79f40fd-ffb9-47f7-841d-529b03070143.png",
-            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+            "quote": "<p><strong>コンパクトに収納可能<\/strong><\/p><p>簡単３ステップで、コンパクトに収納できます<\/p>"
           }
         },
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-2": {
@@ -220,6 +220,32 @@
         "button_color": "#363636",
         "button_background": "#ffffff"
       }
+    },
+    "1678775276c0a72f57": {
+      "type": "apps",
+      "blocks": {
+        "e687f9b6-f755-4b13-a53d-c622f9007aa6": {
+          "type": "shopify:\/\/apps\/bookthatapp\/blocks\/app-block\/447b4be3-b8e8-4347-959f-d9a05d4b2d5d",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "e687f9b6-f755-4b13-a53d-c622f9007aa6"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555": {
+      "type": "map_customize",
+      "settings": {
+        "title": "株式会社 配川工業",
+        "address": "<p>〒475-0807 愛知県半田市八軒町８８−１<\/p>",
+        "hours": "<p>日火水金 8時00分～17時00分<br\/>月 8時00分～17時30分<br\/>木 8時00分～18時00分<\/p>",
+        "map_link_label": "マップを見る",
+        "link_url": ""
+      }
     }
   },
   "order": [
@@ -230,6 +256,8 @@
     "148864c2-12a6-4144-84da-463ce3e227e9",
     "15ae60d2-fb6c-4fc5-9fee-4b09018dde1a",
     "331612a9-ad7c-4145-a7ce-da5e7ee176c8",
-    "064732ab-1591-4743-9f81-58d7b8fc4d66"
+    "064732ab-1591-4743-9f81-58d7b8fc4d66",
+    "1678775276c0a72f57",
+    "9d611c3e-6cf0-4551-b2fa-3cfcb0cb4555"
   ]
 }
