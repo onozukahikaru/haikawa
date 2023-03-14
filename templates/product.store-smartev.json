@@ -94,6 +94,7 @@
         "template--14538639605831__c19618e3-b044-42c3-9efd-c186f143b705-167877651391e6894d-1": {
           "type": "testimonial",
           "settings": {
+            "logo": "shopify:\/\/shop_images\/2_f79f40fd-ffb9-47f7-841d-529b03070143.png",
             "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
           }
         },
